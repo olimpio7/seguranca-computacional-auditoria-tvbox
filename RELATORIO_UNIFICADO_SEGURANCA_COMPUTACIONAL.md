@@ -33,7 +33,7 @@ Ao longo das quatro etapas documentadas neste relatório, comprovou-se que o fir
 3. **Um framework modular de carregamento dinâmico de bytecode** (`com.qcode.ad_service_server` / `QCast`), que oculta 3 arquivos `.dex` dentro de `assets/qcast_advertisement.zip` para instalar silenciosamente um **proxy residencial P2P comercial (`TITAN_PLUGIN_DAEMON` / `io.titannetwork.service`)**, varrer todos os dispositivos da rede local via ARP/ICMP e tentar conexões laterais na porta TCP `5555` (`AdbConnect`);
 4. **Uma loja de aplicativos alternativa (`com.simple.appstore.flymarket` / `GetApps_203.apk`)** blindada pelo packer comercial chinês **Qihoo 360 Jiagu (`libjiagu.so`)** e ferramentas de teste de fábrica (`FactoryStability.apk`) que exfiltram a lista de redes Wi-Fi vizinhas (`wifi_ap_list`).
 
-Por fim, desenvolveu-se e validou-se cientificamente um procedimento automatizado de **Sanitização Cirúrgica de Nível 2 (`sanitizador_tvbox.sh`)** diretamente na partição `/system`, comprovando por meio de experimento controlado em três estados que o equipamento sanitizado permanece **100% limpo e imune mesmo após um Reset de Fábrica (`MASTER_CLEAR`)**.
+Por fim, desenvolveu-se e validou-se cientificamente um procedimento automatizado de **Sanitização Cirúrgica de Nível 2 (`sanitizador_tvbox.sh`)** diretamente na partição `/system`, comprovando por meio de experimento controlado em três estados que o equipamento sanitizado permanece **limpo e persistente mesmo após um Reset de Fábrica (`MASTER_CLEAR`)**.
 
 ---
 
@@ -198,7 +198,7 @@ Antes de realizar qualquer modificação na segunda unidade física (`Serial 65f
 | **`private`** | `/dev/block/nandj` | `08_private.img` | `b4b1373420a0d52b63310ebce8eb6b11` | Dados privados de fábrica (Serial / MAC via `libsst.so`) |
 
 ## 3.2. Classificação de Pacotes e Estratégia de Contenção Reversível (Nível 1)
-Para mitigar os riscos sem alterar fisicamente a partição `/system` naquele primeiro momento (mantendo 100% de reversibilidade em nível de usuário), os pacotes foram auditados e classificados em três listas:
+Para mitigar os riscos sem alterar fisicamente a partição `/system` naquele primeiro momento (mantendo total reversibilidade em nível de usuário), os pacotes foram auditados e classificados em três listas:
 
 - **Whitelist (Intocados):** Componentes vitais para boot, interface de TV, rede, som e vídeo (`android`, `com.android.systemui`, `com.android.settings`, `com.droidlogic.mboxlauncher`, `com.softwinner.TvdVideo`, `com.google.android.gms`, `com.android.vending`).
 - **Greylist (Monitorados):** Aplicativos utilitários ou de mídia pré-instalados sem atividade C2 direta (`com.softwinner.TvdFileManager`, `org.xbmc.kodi`, etc.).
@@ -382,7 +382,7 @@ Isso comprova que a falsificação comercial foi implementada em **dupla camada*
 ## 4.7. Automação da Sanitização Nível 2 (`sanitizador_tvbox.sh`) e Prova Científica de Resiliência ao Factory Reset
 Para tornar a limpeza definitiva e imune à formatação da partição `/data`, desenvolvemos o script automatizado **`sanitizador_tvbox.sh`**, que opera diretamente na partição `/system`:
 
-1. Remonta `/system` em modo escrita (`rw`) preservando 100% dos módulos de kernel (`.ko`) e drivers específicos do lote (`xr819`, `ssv6051`, `esp8089`, `rtl8189etv`);
+1. Remonta `/system` em modo escrita (`rw`) preservando integralmente os módulos de kernel (`.ko`) e drivers específicos do lote (`xr819`, `ssv6051`, `esp8089`, `rtl8189etv`);
 2. Expurga fisicamente de `/system/app/` e `/system/preinstall/` todos os pacotes maliciosos e coletores de fábrica (`UOTA_aikePro103`, `UOTABack_aikePro102`, `QCast_TV_ad_service_*`, `GetApps_203`, `FactoryStability`, `DragonBox`, `DragonAging`, `DragonSN`, `AtvRemoteService`, `AwLiveTv`, `AirScreen`);
 3. Encerra e remove os binários ELF `/system/bin/qw` e `/system/bin/att_policy`, limpa a chamada `/system/bin/qw &` de `/system/bin/preinstall.sh` e injeta regra de firewall `iptables -I OUTPUT -d 158.69.220.68 -j DROP` em `/system/su.d/99_block_c2.sh`;
 4. Grava o bloqueio (*sinkhole* `0.0.0.0`) de **25 domínios C2 e de telemetria** diretamente em `/system/etc/hosts`;

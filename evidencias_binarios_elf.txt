@@ -1,0 +1,7265 @@
+========================================
+ELF BINARY: qw (/system/bin/qw)
+========================================
+SHA-256: 2035e57a5cf020ae2ac7d1f7cfd3cb30e139db859ae856eaf166a08213f99307  /home/kioda/auditoria-script-tvBox/binaries/qw
+FILE: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, for Android 24, BuildID[md5/uuid]=92eeaa056fe96c05bdcd4a92d00fd04d, stripped
+
+--- STRINGS RELEVANTES ---
+  Android
+  HyDxD
+  H!FxD
+  HyDxD	h
+  HyDxD
+  H!FxD
+  EyDO
+  b{D	h	h
+  I(FyD
+  "FyD
+  iF F
+  @ 'J	hzD
+   F!F"F
+   F!F"F
+   "FyD
+   "F+F
+  (	h	h)`	
+   FyD
+  |D%FU
+  $xDyD	
+  X	p"yDHF
+  ~D(D
+  RFKF
+   "FyD
+  *hyD	h	h
+  )hxD
+  %@yD F
+  	 F	
+  ! ";F
+   "FyD
+  FyD8
+   BFyD1
+  4h0h
+  h	hQ
+  F FyD
+   FyD
+  [HxD
+  ZHZIxDyD
+  "IL}DxDO
+  "0hO
+  (H(LxD|D
+  h!F(h[
+  $H)hxD
+  ! !F
+  ,xDO
+  IyD@
+  6 F/!O
+  |H}IxDyD
+  yHxD
+  "9hxD
+  "9hxD
+  (X	hP
+  FgJB
+  	eIzD,XB
+  & _Hq
+  xDZJ
+  BRJzD
+  !0DI=D
+  GP(h
+   2FyD
+  !HxD
+  F0F"FyD
+  *HxD
+  FzD)F{D
+   H!IxDyD
+  !"F(F
+  K!FzD
+  $yD	h	h
+  iF(F
+  (F!F2FO
+  >F/F0F=!O
+  0x#((
+  FPF1F
+   yD	h	h
+  n!0F
+  Tv{D Fl"
+  F8F@
+  (F1Fn"	
+  FyD3
+  yD	h
+  "yD	h
+  p%yD
+  zD	h
+   F1F:FO
+  !{DO
+  "xDO
+  h(F9h
+   "FyD
+  @F!F
+  !"F 
+  HFYF
+   :FyD
+  |IyD
+  hIyD
+  `IyD
+   JFyD
+   yD#F
+  RyD	
+   "FyD
+  !{DO
+  n!8F
+  Kl"xD
+   F9Fn"
+   FAF
+  % F)F
+  F F1F
+   F)F2FO
+   *FyD
+  xD	h
+   "FC
+  RyD	
+   "FyD
+  #yD	h	h
+  	h	h
+  h8`(F	
+   F1FO
+  (F1FO
+  H9hxD
+  yD	h	h
+  hJj!F
+  :PA 
+  `FpG
+   )F*F
+  K{D[h
+  (F!F	
+  F(F7h
+  7` F
+  yD	h	h
+  I@hyD	h
+  `pGN
+  JyD@hzD
+  M!F}D(F	
+  (F!F	
+  F	HxD
+  ``hyD
+  hzD	h{D
+  FjHxD
+  8h	({
+  (F1F
+  6c\[
+  =+3F
+  F	HxD
+  	h	h
+  9	*	
+  % \F
+  8F!FZF
+  1HC7
+  %0F!F*F
+  JxDzD
+  JxDzD
+  (F1F
+  D8F!F
+  (F1F
+  mFn!(F
+  yDl"l#
+   F)Fn"
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  (F!F2F
+  $yD	h	h
+   F)F
+  H!FxD
+  F H	
+   yD"F
+   "#)F
+  0F!F@
+  ``jF h
+  .0D(`
+  7F:F
+  "mBb
+   F9FKF+
+  7F,FT
+   F9FKF+
+  yD	h	h
+  yD	h	h
+  F F)F "
+  F h)F
+  .yD	h	h
+  0F!F
+  IjFyD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  F F)F
+  F h)F
+  #zDxDR
+  "yD.hxDP
+  @F"FO
+  J@F!F;FzD
+  F0F)FBF<h
+  (F<`
+  IyDJh
+   F)F
+   F)F
+  F h)F
+  " #yD
+  @F !
+  8F #
+  0F #
+  5AAC
+  KyD{D
+  "8F #
+  0F #
+  F$HxD
+  D8h!F
+  (F9F
+   FyD
+  LJzD
+  Axl)
+  xl)o
+  09	)b
+  &8x_(X
+  09	)
+  09	)
+  $"H)FxDP
+  4`0F
+  yD	h	h
+  "yD #
+  @F !
+  8F #
+  0F #
+   Ffa
+  @F"F
+  %HD	h
+  8`ODAF"F
+  %HD	h
+  8`ODAF"F
+  8F.!O
+  FI(i
+  yD	h
+  &hyD
+  p0D	h
+   FQF:F
+  "Hih
+  	"FHF
+  	`JFF
+  	p7F
+  F$H%
+   a(F
+  $yD	h	h
+  (h/`
+  "/h!F
+  (h.`
+  yD F2F
+   ,J3FyD
+   (p FO
+  ##JxDyDzD
+   (` F
+  FEIyD	h	h
+  :HxD
+  #xDzD
+  IyD	h
+  KzD	h{D	h
+  	IyD	h
+  H!ixD
+  7H8IxDyD
+  ;HxD
+   u$h
+  +HiFxD
+  H~DxD1h)`
+   yD(uh`(r
+  F)F5`
+  yD	h	h
+  EHFIxDyD
+  mFRF+F
+  2I0F
+   0a1F0up`0r
+  0FIF
+   F9FZF
+  yD	h	h
+  KzDO
+  "FyD
+  (yD	h
+  $yD	h	h
+  h(` h
+  M}D h(` F
+  IyD	h
+  D9h	
+  	x*)
+  !h'F
+  F(F<h
+  0`(FO
+  F(F'h
+  0`(FO
+  J#FyDzD
+  jh!F
+  h i(
+  F0F	
+  (FAF2F
+    `8x
+  qBXF
+  `AhG
+  G!Fo
+  )F3F
+  0@"(
+  F F)F
+  H!FxD
+  H!FxD
+  yD	h
+  xDyD
+  	xDyD
+  xDyD
+  )04F
+  JF3FdF
+  D8`O
+  3yDzD{D
+  JF3F
+  t#yDzD
+  'xDyD
+  LSxD}D
+  M-.}D*`=
+  }D%`2`
+  #yDzD
+  xDyD
+  IyD	h
+  IxDyDO
+   {D:)
+  IxDyD
+  x:/B
+  eF-/
+  @F9FO
+  "FxD
+  	0FAF
+  JyDzD
+  H-/xD
+  HzD	hxD
+  #gJyDzD	h
+  cHxD
+  	0FAF"F;F
+  OHOIxDyDF
+  NHxD
+  LHxD
+  ZHZIxDZJyD
+  VH9FxD
+  THxD
+  >HxD
+  yD	h
+  `>H>IxD>JyD
+  2H2IxD2JyD
+  .H9FxD
+  ,HxD
+  FXF1F)
+  ;:DT
+  IyDQ
+  `(F=!
+  F(F!F2F
+  _HxD
+  \H2F
+  +FxD
+  YHxDI
+  + FP
+  WHxD
+  SHIF2F+FxD
+  LHxD
+  HHxD
+  EHIF*FxD
+  CHxD
+  0IyD	h
+  +I+NyD~D	h
+  %HxD
+  #HxD
+   HIF*FxD
+  hzD	h
+  F}HnF
+   F/!O
+   0a F
+  F)FO
+  p`]I
+  [HxD
+  }D FO
+  )FRFO
+  )FBFp`
+  `$(&
+  `&HqixD
+   0ap
+  F `)
+  H!FBFxD
+  IyD	h	hQ
+  IyD	h	hQ
+  IyD	h	hQ
+  IyD	h	h
+  pG [
+  !:FO
+  !F:F
+  0F!F
+  yD	h	h
+  .	h	h
+  yD	h	h
+  (F!F
+  (F!F
+  F'HO
+  ##JyD
+  0zD	h
+  	h	h
+  yD	h	h
+   pGp
+   F1F*F
+  FXF)F3F
+  =D%(
+  #UE$
+  [*-U
+  wFfF
+  p(a-xD
+  x!zD
+  fFwF
+  dFvF
+  &|Di
+  +|D@
+  o|D@
+  pFGh
+  o|D@
+  o|D@
+  X yD
+  o|D@
+  XDGh
+  4DGh
+  uFdF
+  >P|D
+  OxDzD
+  5FfF
+  >P|Dh
+  >P|Db
+  >P|D9
+  wFeF
+  dFOF
+  %0F2
+  HF*F2
+  uFdF
+  !BFO
+  - mB
+  (F9F
+  	(F9F
+  uY\E
+  4	GF
+  .yD@
+  >yD@
+  {;FOF
+  {;F/F
+  -yD@
+  =yD@
+  {)FF
+  XFMB@
+  FPF)F[F
+  x/'O
+  (xh(
+  (xl(
+  EFJE
+  (D@x
+  ''''''''''
+  '''''''
+  '''''
+  Q8DA`
+   )F"#
+  "h8FAF
+  "h8F
+  p!hx
+  8h`)h
+  hVF6
+  wx^/8
+  `#F].
+  2F+FQ
+  FihB
+  xR\q
+  h`(h
+  *yD1
+  !]!]] %%%%%%%
+  ]]]]]]]""""""]]]]]]]]]]]]]]]]]
+  ]]]]]]]]""""""
+  D(F)`
+  4(`"Fhh
+  UJF(`hh
+  U2F(`hh
+  h`(h4D0D(`*
+  h`(h
+  0])F
+  F k 
+  !i hbiA
+  60Fp
+  `` i `A
+  `aiIB
+  N~D6h
+  IyD	h	h
+  yD	h	h
+  yD	h	h
+  F(FQF
+  (FQF
+  (FQF2F
+  0HxD
+  &IxDyD
+  0FJF
+  !H"IxD
+  yD	h	hA
+  !b\BT
+   F)F
+   F)F2F
+  yD	h	h
+  e8x@
+  xHF)F2FCF
+  FHF)F2FCF%
+  `@FIF
+  e x@
+  FF(F1F%
+  09F%
+  1:FCF
+  1:FCF%
+  )F@F
+  (F!F2F
+  %(Fp
+  0F!F*F
+   pU0Fp
+  HxDDh
+  !!`xD@h``
+  HyDxDL`
+  M}DHi
+  B`Z`
+   yD	h	hAfpG
+  F/HO
+  "xD"#
+  !"FO
+  `jjF
+   yDzD
+  FyIxD
+  -0`	
+  dxDa
+  F1F3F
+  8F1F
+  !:F3FxD
+  8F%h
+   yDzD
+  8F)F
+  HyDxD
+  /B` h
+  	HxD
+  Dh~D
+  AzDR
+  p/Rh
+  Jox1
+  B{DS
+  p?[h
+  F0F'h
+   pGO
+  FpG	h
+  8hn!
+  `JPE
+  8hn!
+  @hpG
+  )F"FO
+  )F"FO
+  UHxD
+  SHxD
+  KHxD
+  P(FT!
+  (k1F
+  ,HxD
+  +HxD
+  ` kF` k
+   k)F
+  b kFb
+  (F!F
+  F(F&h
+  JzDJb
+  *F#F
+  F!j)
+   `dO
+  yD	h	h
+  FyDcF	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  IyD	h	h	
+  yD	h	h
+  @*F	
+  @F1F
+  bPF9F
+   `` i
+  =F0F*F
+  (D ``h
+  .D`i
+  i1Fcj:F
+  k `;
+  !i!`bi
+   ``A
+  2HxD
+   F1F
+  !"F3FxD
+  Uea``J
+  9I:KyD8J{D
+  0FYF
+   YFE
+  tD0h
+  )hHh0
+  ihHh0
+  IyDIj
+  IyD	h
+  hpGJh
+  !"FO
+  F(F!F2FO
+  F	HW
+  ,HxD
+  *HxD
+  )HxD
+  )HxD
+  #J$IzDyD
+  !IyD
+   IyD	h
+  "HxD
+  JyDzD
+  N~D(F1F
+  }D-h-h
+  bFsF
+  	h	h
+  F0F)F'h
+  !h	)(
+  	  `O
+  "(#xD
+  0F)F'`
+  !h()
+  _!!`
+  yD	h	h
+   F1F*FCF
+  9h	)%
+  	 8`O
+  "(#xD
+   F1F*FCF
+  yD	h	h
+  IxDyD
+  FxDQL
+  F hx
+  T !F
+  @F"F
+  "xD+
+   FQF
+  2QFb
+  `YFxD
+  2A!)
+  yD	h
+  >F8F
+  |	jB
+  ~D2h
+  yD	h
+  rF(FfF
+  rF(F
+  yD	h
+  03{Tp
+  ?aCoc
+  58p1 9F
+   @D"
+  PF)F
+  PFYF
+  (F9F
+  PF)F
+  PFYF
+  !)`IFxD
+  A)`IFxD
+  A)`IFxD
+  F!HxD
+  HxDP
+  H)hxD@
+  xDyD
+  	HxD
+  HahxDP
+  ! "`@
+  !@(F
+  FpG-
+    pG
+  -HxD
+  +HxD
+   (`#HxD
+  &F0F
+   F1F
+  0F1F
+  -5`O
+  .`	HxD
+  @=CD
+  0pG-
+  q9@o
+  $,a>
+  yD	h	h
+  %0,%
+  RF%F
+  8	xD
+  lH|D$h
+  RFQB
+  @FXE
+  0FQF
+  (FYF
+  ` F)F
+   F)F
+  x((@
+  yD	h
+   F)F
+  yD	h	h
+  h `Hh
+  h `Hh
+  p!```
+  HyDxD
+  H)F"FxD
+  yD	h	h
+  1F*F
+  =F1F*F
+  (D=F
+  1F:F
+  !:FO
+  1F*F
+  1F"F
+  aehO
+  eh&h*F
+  !hXD*F
+  ``!h)D
+   ` aaa
+   0`O
+  8FQF
+  	9FRFHF
+  ` kA`8
+   hah
+  ! kA` F
+  B_ `
+   `` k
+  0`!k
+  0 ` hA
+  xDlF
+  8FIF
+  yD	h	h
+   .h!F
+  (h.`
+  C\NHxD
+  FHxD
+  yD	h	h
+  ;HxDP
+  AHxD
+  yD	h	h
+  7HxDP
+  /HxD
+  (K{D
+  H!FxD
+  	H!FxD
+  F}D(F
+  IyD	h
+  zqJF
+  FvHxD
+  uHxD
+  'tJxDzD
+  D}DB
+  iHxD
+  'F)h
+  @HxD
+  <HxD
+  :HxD
+  F7HxD
+  xDyD
+  G\j/
+  @FJF;F
+  F\j.
+  +FxD
+  pi1F0a@F	
+  2F#F
+   FJF3F
+  i}D~D(F
+  `(FP
+  xi9F8a F	
+  :F+F
+  ` F	
+  @F:F
+  XFAF
+  \FxD
+  !!`xD
+  SFxD
+  yDxD
+  &{DyD8`zD
+  LF|D F
+  +FyD
+   F2F
+  XFAF
+  XFAF
+  EFxD
+  ,$yDzDj
+  !1`xD
+  CFxD
+  JyDzD
+   "x4x
+  2CxD
+  OHxD
+  9HxD
+  8HxD
+  3HxD
+  9HxD
+  4HxD
+  uHxD
+  bHxD
+  |HxD
+  wHxD
+  }HxD
+  xHxD
+  [HxD
+  VHxD
+  \HxD
+  WHxD
+  xDyD
+  G\j/
+   FIF
+  @F"F;F
+  g|D~D F
+  SFxD
+  `0FP
+  ` FIF
+  hi)F(a@F
+  *F3F
+  p@F	
+   (pN
+  yDxD
+  \%{DyD0`zD
+  E|D F
+  @F:F
+  #yDzD
+  +FxD
+  % FJ
+  JyDzD
+  DFxD
+  CFxD
+  ~HxD
+  eHxD
+  \HxD
+  IHxD
+  cHxD
+  ^HxD
+  dHxD
+  _HxD
+  BHxD
+  =HxD
+  CHxD
+  >HxD
+  yD	h	h
+  PXF;F
+   (F1F
+  #FxD
+  !HBAD
+  D\j,
+  !BF#F
+  F\j.
+  pi1F0aXF
+  SFxD
+  2F;F
+  [FxD
+  WFxD
+    p5
+  !BF3F
+  !)`xD
+  FxD	
+  !)`xD
+  ]|D}D F
+  #FyD
+  `(FP
+  RF;F
+  XF"F
+   FIF
+  #FxD
+  \FxD
+  FxD	
+  	#FyD
+  FxD	
+  yDxD
+  '{DyD8`zD
+  G|D F
+  #FyD
+  XF2F
+   FIF
+   FIF
+  NFxD
+  %yDzDo
+  !)`xD
+  KFxD
+  $yDzD
+   "x4x
+  2CxD
+  FxD	
+  FxD	
+  xHxD
+  nHxD
+  \HxD
+  tHxD
+  iHxD
+  dHxD
+  iHxD
+  dHxD
+  uHxD
+  pHxD
+  BHxD
+  =HxD
+  ZHxD
+  UHxD
+  jHxD
+  eHxD
+  7HxD
+  2HxD
+  OHxD
+  JHxD
+  {HxD
+  vHxD
+  |HxD
+  wHxD
+  yD	h	h
+  I	xDz
+   P i
+  @F)F
+  9`qk
+  `i!F a@F
+  @F)F"F
+  XHxD
+  h@F+F
+  @F!F;F
+  DHxD
+  1`yk
+  @FJF
+  H)FxD
+  H)FxD
+  H)FxD
+  H)FxD
+  HiFxD
+  +FxD
+  pHiFxD
+  !1`xD
+  QHiFxD
+  FxD	
+  =HiFxD
+  <HiFxD
+  (HiFxD
+  (HxD
+  8FRF[F
+  yD	h	h
+   T|D}D F
+  yDxD
+  #{DyD(`zD
+  C|D F
+  CFxD
+  JyDzDa
+   rJyDzD
+  oJoKzDoM
+  {DsL}D
+  D+hyD
+  *CxD
+  SHxD
+   FDF
+  OHxD
+  <HxD
+  AHxD
+  <HxD
+  BHxD
+  =HxD
+  0FIFZF
+  yD	h	h
+  D|D8F
+  yDxD
+  #{DyD8`zD
+  C|D F
+  CFxD
+  JyDzDZ
+   (p#
+   tJyDzD
+  pJsIzD
+  vLyDnK
+  DnO|D
+  SHxD
+  +FxD
+  OHxD
+  <HxD
+  AHxD
+  <HxD
+  BHxD
+  =HxD
+  8FIF[F
+  yD	h	h
+   T|D}D F
+  yDxD
+  #{DyD(`zD
+  C|D F
+  CFxD
+  JyDzDa
+   rJyDzD
+  oJoKzDoM
+  {DsL}D
+  D+hyD
+  *CxD
+  SHxD
+   FDF
+  OHxD
+  <HxD
+  AHxD
+  <HxD
+  BHxD
+  =HxD
+  xDyD
+  TT|D}D F
+  yDxD
+  #{DyD8`zD
+  C|D F
+  #FyD
+  JyDzD&
+  !)`xD
+  JyDzD
+   "x4x
+  2CxD
+  tHxD
+  SHxD
+  @HxD
+  EHxD
+  @HxD
+  FHxD
+  AHxD
+  SFxD
+  l}}D
+  60x,(
+  QF:FxD
+  QF:FxD
+  (`HF
+  !)}D
+  SFxD
+  IFZF
+  t	:F
+  SFxD
+  IFZFP
+  H	:F
+  SFxD
+  (`HF
+  (`HF
+  SFxD
+  SFxD
+  (`HF
+  SFxD
+  0W}D
+  SFxD
+  dy}D
+  SFxD
+  SFxD
+  QF:FxD
+  SFxD
+  }DxD@
+  (`HF
+  SFxD
+  SFxD
+  (`HF
+  SFxD
+  xu}D
+  8FIF
+  }DxD@
+  SFxD
+  SFxD
+  SFxD
+  SFxD
+  SFxD
+  (}Da
+  ISFxD
+  (}DM
+  ISFxD
+  IxDyD
+  IxDyD
+  dHxD
+  bHxD
+  >HxD
+  <HxD
+  ;HxD
+  :HxD
+  xD	h
+  (HxD
+  &H&I(MxD(KyD%J}D{D
+  0F!F
+   F)F
+  	HxD
+  	HxD
+  yD	h	h
+  1`ak
+  F`HxD
+  PF)FJF
+  XHxD
+  hPF+F
+  PFIF;F
+  5HxD
+  !`ykl
+  PFBF
+  H)FxD
+  H)FxD
+  80ag
+  HF:F#F
+  yHxD
+  `(FP
+  `lHlIxDyD
+  hHxD
+  pi1F0aHF
+  aHxD
+  yD	h	h
+  WHxD
+  F@HxD
+  2F+F
+  !HxD
+  HF"F
+  yD	h	h
+  h0h	h
+  XF1F
+  !FxD
+  "8`(hx`
+  XF1F
+  yD	h	h
+  H9hxDAD
+  XF#F
+  H8h@D8`xh
+  XF!F
+  XF#F
+   FAF
+  0FeF
+  0FeF
+  XF1FbF
+  eHxD
+  hXF3F
+  eFxD
+  SFXFaF
+  @HxD
+  RFXF
+  0FeF
+  +H!FxD
+  $H!FxD
+   H!FxD
+  H1FxD
+  H1FxD
+  PF)F
+  yD	h	h
+  ~HxD
+  1`ak
+  F]HxD
+  PF)FJF
+  UHxD
+  hPF+F
+  PFIF;F
+  4HxD
+  !`ykr
+  PFBF
+  H)FxD
+  H)FxD
+  hyD	h
+  ;i	h#
+  	h	h
+  N~D6h6h
+  "yi@
+   ``h
+  !xDG
+  4.PFIFzD
+  .PFIFG
+  t.PFW
+  (<IFzD
+  P\xD
+  L.xD
+  {DzD
+  FPFIF
+  4.PF
+  4>IFzD{D
+  (.PFIFzD
+  {DzD
+  FPFIF
+  -PFW
+  8<IFzD
+  -PFW
+  (<IFzD
+  -PFW
+  8<IFzD
+  `-PFW
+  (<IFzD
+  PFIF
+  PFIF
+  {DzD
+  FPFIF
+  `,PFW
+  (<IFzD
+  8,PFW
+  8<IFzD
+  {DzD
+  FPFIF
+  {DzD
+  FPFIF
+  {DzD
+  FPFIF
+  {DzD
+  FPFIF
+  P+xD
+  {DzD
+  FPFIF
+  {DzD
+  FPFIF
+  *PFW
+  4<IFzD
+  {DzD
+  FPFIF
+  *PFW
+  (<IFzD
+  P*xD
+  )lzD
+  FPFIF
+  )lzD
+  FPFIF
+  )PFW
+  4<IFzD
+  {DzD
+  FPFIF
+  x	xD
+  \)PFW
+  4<IFzD
+  P	xD
+  8)xD
+  {DzD
+  FPFIF
+   	xD
+  {DzD
+  FPFIF
+  {DzD
+  FPFIF
+  (xDzD
+  P\xD
+  (PFW
+  0<IFzD
+  (PFIF
+  P\xD
+  `(PFW
+  8<IFzD
+  PLxD
+  4(PFW
+  8<IFzD
+  PLxD
+  PFzDIF
+  'PFIFzD
+  'xDW
+  4<yDzD
+  PFIF
+  'PFW
+  8<IFzD
+  &PFIFzD
+  !xDG
+  PFIF
+  DLxD
+  DLxD
+  DLxD
+  DLxD
+  DLxD
+  DLxD
+  PFIF
+  %PFIF
+  %PFIFzD
+  $}D1]
+  PFIF*F#F
+  `$PFIFzD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  9H:IxDyD
+  9H:IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  FxDf
+  -HFK
+  AFzD
+  x-HFJ
+  AFzD
+  HFzDAF
+  -HFAFzD
+  ,HFAFzD
+  ,HFAFzD
+  TMFDF(F!F
+  +(F!F
+  6vzD
+  HFAF
+  .vzD
+  HFAF
+  DF0F!F!
+  zD0F!F
+  zD0F!F
+  1F:F
+  %1FxD
+  LZxD
+  LZxD
+  0F:F
+  xD*F
+   1FL
+  1F*F
+  1F*F
+  1F*F
+  1F*F
+   1FL
+  zrQC
+  #xDf
+  F9F2FxDd
+  9F2Fd
+  9F2Fd
+  9FxD2F
+  8FCF
+  9F2Fd
+  8FCF
+  #xDf
+  8F3F
+   9F\
+  8F3F
+   9F\
+  8F3F
+  	9FZF
+  8F3F
+  	9FZF
+  8F3F
+  YC D
+  %GFO
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  xDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  ~H~IxDyD
+  |HxD
+  zHzIxDyD
+  xHxD
+  vHvIxDyD
+  tHxD
+  rHrIxDyD
+  pHxD
+  nHnIxDyD
+  lHxD
+  jHjIxDyD
+  hHhIxDyD
+  fHfIxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  IxDyD
+  I&-;kyD
+  X#xD
+  !fHxD
+  9i"h
+  !i*h
+  @hh`!h)`
+  ` hE`-h%`0F
+  (F!F
+  g0F)F
+  F $O
+  h((8
+  P	'"
+  Z~hd
+  y` 3
+  xDyD
+  xhc@
+  iFxD
+  +FxD
+  iFxD
+  !9`xD
+  HiFxD
+  H#FyD
+  HiFxD
+  !)`xD
+  HiFxD
+  FxD	
+  HiFxD
+  HiFxD
+  tHiFxD
+  zHiFxD
+  eHiFxD
+  dHiFxD
+  OHiFxD
+  PHxD
+  &HxD
+  IHxD
+  5HxD
+  %HxD
+   HxD
+  &HxD
+  !HxD
+  .HxD
+  )HxD
+  /HxD
+  *HxD
+  J##yDzD	h
+  KzD{D
+  h@"?h
+  ?:@xO
+  D?h?h
+  D?h?h
+  pN{D
+  h6h[]V
+  FfIyD	h
+  yD	h	h
+  SHxD
+  HFAF
+  F/HxD
+  ':D{B
+  >3@>
+  Fah!
+  0F!F
+  &PF"F3F
+  cHxD
+  h((5
+  rw'&
+  %PF9F2F
+  CYbh
+  ``HF
+  SH 5
+  yD	h	h
+  ;HxD
+  ,K{D
+  PF+F
+  PF)F
+  PF+F
+  H)FxD
+  H)FxD
+  "HxD
+  IyD	hi
+  JyDzD	h
+  KHxD
+  6IzDyD	h	h
+  $-JyD
+   J!KzD{D
+  F`HxD
+  !!`xD
+  PHiFxD
+  @HxDH
+  !!`xD
+   (p7H
+  $HiFxD
+  HxDiF
+  IxDyD
+  IxDyD
+  yD	h	h
+  HiFxD
+  oHiFxD
+  !1`xD
+  UHiFxD
+  CHiFxD
+  CHiFxD
+  2HiFxD
+  /HxD
+   HxD
+  !HxD
+  ~HiFxD
+  nHiFxD
+  !1`xD
+  THiFxD
+  BHiFxD
+  BHiFxD
+  1HiFxD
+  2HxD
+  +HxD
+  `(h8
+  @h``)h!`
+  `(hD`$h@F,`
+  (h0`
+   0` F
+  H!FxD
+  	HxD
+  G FO
+  0x0(,
+   F9FVE
+  FxDO
+  	8x%(
+  nnnnnnw
+  _F?!*
+  uFgFO
+  @BuF
+  F**@
+  l!8xc(9
+    '	
+  1eFwF
+  FfFwF
+  FCF_F &	
+  )}D@
+  m0X(~D
+    '	
+  ZFgFtF
+  %OFWE
+  (FAF "
+  m`8F!F
+  8F!F
+   F "
+  BFdFwF
+  F)F	
+  ZFHDgFuF
+  t8F!F
+  8F!F
+  lB-*
+    '	
+  "FgF
+  (FIFBF #M
+  yD	h	h
+  LxD|D
+  (F1F
+  H9hxD
+  hbFyb
+  hyD(` F
+  !FzD
+  H)hxD
+  yD	h	h
+   1F p
+  T 1F
+  F|DO
+  & F1F
+  F@F!F
+   pGAx	
+   pGBTpG@\pG
+    `O
+  0AF:F3F
+  -H.IxDyD
+  F"H#IxDyD
+  h HB
+  0F)F:F
+  yD	h
+  8.*4
+  T4{D
+  h_\y
+  xD;F
+  XF!F
+  "!b$
+  XF!F
+  Aahh
+  &XF!F
+  XFAF
+  "!P$
+  8h0C
+  @9CF
+  IyD	h	h
+  pGR/
+  `x (
+  FdHxD
+  FiF0F
+  0K;iA
+   2rE
+   pGP
+  (i,FA
+  aF"F
+   	) 
+  &.+	
+  UFBF
+  "]F8
+  yD	h
+  yD	h
+  8FBFKF
+  ^F"D
+  @FYF
+  IB(F
+  XFQF
+  XF9F
+  PF1F
+  (FYF
+  @FQF
+  @FQF
+   !;F
+  F;Fe
+  IB(F
+  @F)F
+  yD	h
+  x%zD
+  yD	h
+  aBdF
+  6(yD
+  `P !
+  PFIF
+  yD	h	h
+  @FQF
+  	h	h
+  IB F
+  @F"F
+   F)F
+  1{Y^
+  !Aa(F
+  hbbLb
+  FTIxD
+   F1F
+  0D a
+  yD	hQ
+   F;F
+   F1F
+  H!ixD
+  yD	hQ
+  b`@o
+  F-IxD
+  (F9F
+  (FBF
+  (F9F
+  (F1F
+  FLIxD
+  (F1F
+  (F9F
+  @IyD
+  )I*iyD
+  hHF>h
+  XF!F
+  XF)F
+  yD	hQ
+  yD3F
+  FgF	h
+  {H"F
+  3FxD
+  XF"F3F.
+  "FxD3FUF
+  "FxD
+  XF"FSF
+  yD	hQ
+  0F)F
+  (#yD	h
+  rHxD
+  8F)F
+  8F1F
+  F8F1F
+  8FJFCF
+  (F9F
+  !bFp
+   F)F
+  !FxD
+  yD	h
+   F2F
+  5Wk*F
+  z6h)
+  hAE)
+  bHF1F
+   FRF
+  tJxD
+  ?@iXD@
+  ;Ri*D
+  aSHa
+   Fb`
+  RFxD
+  h(F1F
+  <ISF<JyDzD	h
+  (F9F
+  (F1FRF
+  0 dA
+  `d m
+  0 e	
+  yhxD
+  (F9F"F
+  g`8FAF
+  8F!F
+  (h!F0D
+  *HJF*K
+  BF1F
+  BF1F
+  (FBF
+  QHQI
+  xDyD
+  F)o!D
+  $HxD
+  "HxD
+  JyDzD	h
+  0F9F
+  0F!F*F
+   F)F
+  YHxD
+  0FIF
+  /HxD
+  PF!F:FCF"
+  H!FCF
+  ' PF
+  xDyD
+  h	hP
+  xDyD
+  h	hP
+  V}D/h
+   p7@;C
+   0(hB
+   03@
+  PPFBF;F
+  PFAF*F
+  #xDyD
+  PFAF
+  hzD	h
+  HF"F;F
+  QFBF#F
+  0F)F
+  HFQF"F[F
+  IyD	h
+  ` FP
+  HFQF"F;F
+  QFBF#F
+  0F)F
+  0F!F
+  0F!F
+  HFQF"F3F
+  /IyD
+  HFQF:F[F
+  PF!Ffh
+  zHzIxDyD
+  uxD@
+  WJzD
+  MHxD
+  t$ZE'
+  XFAF
+  ` FYFBF
+  	h@B
+  )DRk
+  R2T#
+  0F)F"F
+  F0F#F
+  (j1h`
+  pIk<x
+  F1FZ"
+   F)F:F
+  0j!h`
+  zD	h
+  zD	h
+  V{D}D
+  h-h}
+   FIF2F+F
+  xDyD
+  h j)h`
+  yDeF	hQD
+  nHxD
+  oHxD
+  yD	h
+  bIyD	hQ
+  yD	h
+  ,IyD	hQ
+  p'yD
+  zD	h
+  HFRF3F
+  zD	h
+  xDyD
+  EFxD
+  xDyD
+  h	hP
+  #ZB3D
+  B=FgF)
+  yD{D
+  hI]S
+  HF9F#F
+  VF FYF2F
+  9`ik
+  HF9FZFSF
+  yD	h	h
+  HFYF
+  HFYFBF
+  3@	h
+  )`yke
+  	HFP
+  `HFP
+  HF9F2F
+  9F*FKF
+   F9F
+  HFAF
+  XF9F}h
+  HFAF3F
+  hHF[F
+  #YB3D
+  HF9FBF
+  AF D
+  XFQFZ"
+  HF2F
+  D3D+`
+  #0;`
+  D;DSb
+  A`!o
+  NIyD	hQ
+  3uhzX
+  p``o
+  `o2i
+  a0h)j
+  D(b F
+  H5X6
+  FlHlIxDlJyD
+  hzD	h
+  %g~D0hA
+  UI0hyD
+  `g	h
+  7X6%F'/
+  (xDzD
+  (xDzD
+  yD	h
+  xDX'yD
+  ~D	h8`
+  \8zD{D
+  0HxDzD
+    ` F
+  ! F@
+  ! F@
+   ! F@
+  8  g
+  yD{D
+  zDDT
+  JxDzD
+  VJzD
+  _EJxDzD
+  hQ\BJ
+  d'% F
+  e'&(F
+  e'&(F
+  b`@o
+  FQH	
+   F1F
+  *C;C
+  h FA
+  `(F)s)Fns
+  *FxD
+  oHoIxD
+  yD"h
+   )s)Fhs
+  cHdIxD
+  yD"h
+   yD	h
+   F*F
+  )BJA
+  wxD#izD
+  h"k=K
+  2IyD	h	h'
+  0I1JyDzD	h
+  h	hS
+  cyD	h	hO
+  29hK
+  9!KzD{D
+  H)FxD
+  4KT%
+  5'K{D%
+  h*DRkR
+  0Zh"
+  b`Zh"
+  Z`sF
+  `Hh 
+  FMJxD
+  #DJzD
+  >H+F
+  \dxD"h
+   FIFZF+F
+  }DFF(h
+  7@'C/CC
+  "p	h
+  2@:C*CC
+  PJT&PKzD{D
+  ?Vh3`
+  0zDX
+  IxDyD
+  h	hXD
+  (FYF
+  4KT%
+  5'K{D%
+  h*DRkR
+  bh+F
+  TheENhO
+   NhWhO
+  W`Jhd
+  "CJ`
+  CA`f
+  CQ`^
+  <\h$
+  h"CJ`^
+  h_h'
+  h(CX`
+  hSh#
+  `Qh^
+  CQ` 
+  hKh#
+  CJ`^
+  CQ`^
+  h#CK`^
+  h{h#
+  `yh^
+  Cy`^
+  h^h&
+  `Yh^
+  1CY`yh
+  h1Cy`
+  CA`M
+  H`Ph@
+  P`Xh 
+  hBh"
+  `Ah^
+  CA`^
+  CH`'
+  hAh!
+  CA`^
+  CH`^
+  CA`^
+  75@7@O
+  D?hW
+  2CxDB
+  HFYF*F
+  KzD{D
+  ?Uh+`
+  dFxD
+  U7HFYF:F
+  KzD{D
+  ?Vh3`
+  HFYF:F
+  qHT"qIxDyD
+  h	hXD
+  aHxD
+  _HYFxD
+  RHT"RIxDyD
+  h	hCB9D
+  NJzD
+  8F9F
+  IF F
+  xD=Id
+  :FxD
+  .H!h
+   xDQ
+  8F)F2F#F
+  F.JxD
+  #%JzD
+   HSF
+  xD*h
+  6(F9F"F
+  hQ\$J$KzD{D
+  0pGK
+  (F9F"F
+  !HB!D
+  F~D5H
+  F4hxD
+   P%@=C
+   P,@"C
+  xDIB
+  F0HxD
+  U1F(F	
+  IyD	h
+  zDac
+  A,JN
+  q+KzD
+  R&Ho
+  $HxD
+  hI?0 
+  _	h	h
+  bIxD
+  ZHiFxD
+  WH!FxD
+  KHxD
+  /HxD
+  `/H>F/JxDzD
+  `'HxD
+  !HBAD
+  hzD0`
+  h `8F
+   h@B
+  ,`hJ
+   F1FRFCF
+  0FQFBF;F
+   F1FRFCF
+  (F!F
+  *0FE
+  *	Hh
+  1JzD
+  8F2F	
+  H1FxD	
+  xDzD
+  yD	h	h
+  yD	h	h
+  zD	h
+  IyD	h
+  TA0F
+  @FYF"F
+  YF(F
+  YF F
+  @FYF
+  (FYF
+   FYF"
+  @FYF"F
+  8FIF
+  @FYF
+  @FYF"F
+  F&F,FQF
+  G%F4F^F
+  @FIF
+  8FQF
+  0h!F?hBFKF
+  *0FG
+  <C F
+  tIXF
+  TAXF
+  4sps
+  8F1F
+  (F1FJFLF
+  @F1F
+  FIFXF
+  @FIF
+  'F(FIF:F
+  XF1F\F
+  (F1F:F
+   0s F
+  (F1F:F
+  (FIF
+  (FYF
+  8F1F
+  (F1FJF
+    @0si
+  @F+hQFfh:F
+  hQF(h
+  @FSF
+  'iQF(h
+  @FSF
+  6i!F
+  KyDzD{D
+  JxDzD
+  L|D F
+  F}D(F
+  	h	h
+  GHxD
+  FHxD
+  DHaB
+  xDDJ
+  zD@H
+  3IyD
+  `0IyD	h
+  )HxD
+  HyDxD
+  "#F@
+  0FIF
+  0FIF
+  F}D(F
+  IxDyD
+  KyDzD{D
+  (F!F
+  (F!F
+   pG-
+  8F!F
+  *FCF
+  yD	h	h
+  6HxD
+  5HxD
+  ,HxD
+  %N&O~D
+  5~D0h(DP
+  0h@Y
+  L|D h
+  $zDET
+  F.!O
+  EDoh8F
+  0F9F"F
+  hPF"F
+  !PME
+  !*F#F
+  .xD!
+  h8F1F
+  8F1F*FCF
+  xDyD
+  l!l`
+  xDyD
+  HlyDX
+  %,FW
+  0.FG
+  <l3F
+  D<tA
+  @<qA
+  *TH6
+  29IxD:MyD;L
+  h}D	h|D
+  4IyD
+  `Ai1J
+  zD+`
+  1!`*J}D
+  yD	h	h
+  " FyD
+  FxDyD
+  PF*F
+  1F:F
+  H#FyD
+  [FxD
+  +HxD
+  "iFPF
+  yD	h	h
+  !1`xD
+  DFxD
+  CFxD
+  'HxD
+  yD	h	h
+  !1`xD
+  DFxD
+  CFxD
+  &HxD
+  "iFPF
+  yD	h	h
+  !1`xD
+  DFxD
+  CFxD
+  'HxD
+  yD	h	h
+  !1`xD
+  DFxD
+  CFxD
+  &HxD
+  FxDyD
+  yD	h
+  xyD	h
+  yD	h	h
+  3FxD
+  CFxD
+  WFxD
+  PHxD
+  &HxD
+  HHxD
+  5HxD
+  %HxD
+   HxD
+  &HxD
+  !HxD
+  .HxD
+  )HxD
+  /HxD
+  *HxD
+  yD	h	h
+  #FxD
+  !!`xD
+  CFxD
+  'HxD
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  IxDyD
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+   pG-
+  FxDyD
+  "sI3FxD
+  !1`xD
+  [FxD
+  CFxD
+  )HxD
+  FxDyD
+  yD	h	h
+  HiFxD
+  pHiFxD
+  !1`xD
+  QHiFxD
+  FxD	
+  =HiFxD
+  <HiFxD
+  (HiFxD
+  (HxD
+  FxDyD
+  yD	h	h
+  HiFxD
+  pHiFxD
+  !1`xD
+  QHiFxD
+  FxD	
+  =HiFxD
+  <HiFxD
+  (HiFxD
+  (HxD
+  F}D(F
+  BxD8
+  FyD	h
+  &0HxD
+  /HxD
+  8F1F
+  yD	hQ
+  FyDzD	h
+  "iF F
+  yD	h	h
+  FyDzD	h
+  "iF F
+  yD	h	h
+  FyD	h
+  yDFh
+  ;HxD
+  hGHG
+  EHxD
+   yD	h
+  6HxD
+  (HxD
+  &HxD
+  0FIF
+   HxD
+  $1hxD
+  IyD	h
+  "iF F
+  yD	h	h
+  "iF F
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  DHxD
+  =H=IxDyD
+  h	h`C
+  70F:F
+  &3HxD
+  g@F9F
+  48F@
+   FAF@
+  L|D h
+  H'*xD
+   pG$
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  H	hxD
+   pGr	
+  yD	h	h
+  H	hxD
+  yD	h	h
+   pGp
+  "iF F
+  "iF(F
+  "iF(F
+  "iF(F
+  "iF(F
+  "iF(F
+  LxD|D
+  "iF F
+  "iF F
+  "iF F
+  "iF F
+  "iF F
+  "iF F
+  "iF F
+  "iF F
+  "iF F
+  "iF F
+  "iF F
+  "iF F
+  H'*xD
+  %xD:i
+  "iF F
+  %xD:i
+  "iF F
+  %xD:i
+  "iF F
+  %xD:i
+  %xD:i
+  "iF F
+  %xD:i
+  "iF F
+  %xD:i
+  "iF F
+  %xD:i
+  "iF F
+  %xD:i
+  H	hxD
+  &xD:i
+  "iF F
+  %xD:i
+  "iF F
+  %xD:i
+  "iF F
+  %xD:i
+  H	hxD
+   pGz
+  &xD:i
+  "iF F
+  %xD:i
+  "iF F
+  &xD:i
+  "iF F
+  %xD:i
+  \BK{D
+  \;JzD
+  Ih@h
+  (F1F
+  pj4F
+  4F Fp
+  (F1F
+  Oj7C
+  lF(F1F
+  hoj_b
+  jHE#
+  _j:C
+  Oj;C
+  Wj7C
+  Oj;C
+  ,JbP
+  `FSh
+  IhBh
+  IhSh
+  ]hLh
+  k/kO
+  kbE'
+  j;k#
+  b9k^
+  C9c^
+  j1C9c
+  'xDzD
+  hPE0F*
+  '{BWD
+  D?h?h
+  X7RE{D
+  DwzD
+  h?hR]W
+  " RE
+  XF@"@#
+  yD	h	h
+  8FQF2F
+  8F!FRF
+  yD	h	h
+  !@`B
+  yD	h	h
+  !@`B
+  $5{D
+  h7FW
+  9`qk
+  4F0F
+  hjbMb
+   FQF
+   FQF
+  yD	h	hL
+  4G8F
+  HF)FBF
+  HFAF#F
+  IyD	h	h
+  4F0F
+  HxD|
+  IyD	h	h
+  4F0F
+  hHF+F
+  'zBWD
+  \`HxD
+  ^HxD
+  h7FW
+  HF"F
+  7H)FxD
+  4H)FxD
+  "H)FxD
+  H)FxD
+  PF1F:F#F
+  PF1F*F#F
+  H	hxD
+  |HRFxD
+  [HxD
+  WJzD
+  4D F
+  @FQF2F;F
+  4E(F
+  XFQF2F#F
+  6HxD
+  3HxD
+  4D F
+  (FQFBFKF
+  "HxD
+  !HxD
+  yD	h	h
+  FQFZF+F
+  HF!F*F
+  xHF!F*F3F
+  ]F FQF*F
+  |HxD
+  zHxD
+  hE\sHxD
+  9`qk
+  HFQF
+  HFQFBF
+   YE|
+  ;@	h
+  HF*F
+  HFAF+F
+  hHFSF
+  PFYF
+  F(F9F
+  4E(F
+  yD	h	h
+  !@`B
+  !`qk
+  gIyD	h	h_
+  4JPF
+  HF9FBF
+  ZHxD
+  hHF;F
+  HFAF+F
+  \5HxD
+  1`ikC
+  HF"F
+  H9FxD
+  H9FxD
+  &K{D
+  IyD	h
+  4E(F
+  #pGL
+  yD	h	h
+  8F"#
+  (F!F
+  !*F#FxD
+  h@"!F
+  H!FxD
+  %D(F
+  ByD	h
+  Fhhh
+  (h!FA
+  )Fh`A
+  @ #!
+  !1C "
+  /proc/%d/status
+  %*s %s
+  shell
+  system
+  radio
+  /dev/log/main
+  seteuid (root) failed with %d: %s
+  setresgid (%u) failed with %d: %s
+  setresuid (%u) failed with %d: %s
+  --daemon
+  .agingdragonbox
+  inner.dragonbox
+  ech.dragonenter
+  GCONV_PATH
+  GETCONF_DIR
+  HOSTALIASES
+  LD_AUDIT
+  LD_DEBUG
+  LD_DEBUG_OUTPUT
+  LD_DYNAMIC_WEAK
+  LD_LIBRARY_PATH
+  LD_ORIGIN_PATH
+  LD_PRELOAD
+  LD_PROFILE
+  LD_SHOW_AUXV
+  LD_USE_LOAD_BIAS
+  LOCALDOMAIN
+  LOCPATH
+  MALLOC_TRACE
+  MALLOC_CHECK_
+  NIS_PATH
+  NLSPATH
+  RESOLV_HOST_CONF
+  RES_OPTIONS
+  TMPDIR
+  TZDIR
+  LD_AOUT_LIBRARY_PATH
+  LD_AOUT_PRELOAD
+  /vendor/lib:/system/lib
+  su invoked.
+  command
+  help
+  login
+  preserve-environment
+  version
+  +c:hlmps:Vvu
+  /system/bin/sh
+  15 com.koushikdutta.superuser
+  user
+  managed
+  owner
+  none
+  starting daemon client %d %d
+  Unknown id: %s
+  Allowing root/system/radio.
+  fork failed with %d: %s
+  Usage: su [options] [--] [-] [LOGIN] [--] [args...]
+  Options:
+    --daemon                      start the su daemon agent
+    -c, --command COMMAND         pass COMMAND to the invoked shell
+    -h, --help                    display this help message and exit
+    -, -l, --login                pretend the shell to be a login shell
+    -m, -p,
+    --preserve-environment        do not change environment variables
+    -s, --shell SHELL             use SHELL instead of the default /system/bin/sh
+    -u                            display the multiuser mode and exit
+    -v, --version                 display version number and exit
+    -V                            display version code and exit,
+                                  this is used almost exclusively by Superuser.apk
+  /system/build.prop
+  ro.build.version.sdk
+  /data/data/com.koushikdutta.superuser/files/multiuser_mode
+  /proc/%u/cmdline
+  Opening command line failed with %d: %s
+  Reading command line failed with %d: %s
+  /proc/%u/exe
+  Getting exe path failed with %d: %s
+  /system/bin/app_process
+  request rejected (%u->%u %s)
+  %s/%d/%s
+  /data/user/
+  com.koushikdutta.superuser/databases/su.sqlite
+  com.koushikdutta.superuser
+  %u %s executing %u %s using binary %s : %s%s%s%s%s%s%s%s%s%s%s%s%s%s
+   ...
+  exec failed with %d: %s
+  Cannot execute %s: %s
+  HOME
+  SHELL
+  USER
+  LOGNAME
+  daemon requires root. uid/gid not root failed with %d: %s
+  socket failed with %d: %s
+  fcntl FD_CLOEXEC failed with %d: %s
+  %s/server
+  /dev/com.koushikdutta.superuser.daemon
+  daemon bind failed with %d: %s
+  daemon listen failed with %d: %s
+  daemon exiting
+  %s/%d.stdout
+  %s/%d.stderr
+  %s/%d.stdin
+  connect failed with %d: %s
+  MOUNT_EMULATED_STORAGE
+  outfd %s  failed with %d: %s
+  errfd %s failed with %d: %s
+  infd %s failed with %d: %s
+  client exited %d
+  could obtain credentials from unix domain socket
+  unable to allocate args: %d
+  mkfifo %s failed with %d: %s
+  /dev/ptmx
+  ptm failed with %d: %s
+  ptm setup failed with %d: %s
+  outfd daemon %s failed with %d: %s
+  errfd daemon %s failed with %d: %s
+  infd daemon %s failed with %d: %s
+  pts failed with %d: %s
+  invalid string length %d
+  unable to malloc string
+  unable to read string
+  dup2 child outfd failed with %d: %s
+  dup2 child errfd failed with %d: %s
+  dup2 child infd failed with %d: %s
+  unable to write int failed with %d: %s
+  unable to write string failed with %d: %s
+  unable to read int
+  unable to pump_async
+  <unknown>
+  /dev/null
+  /sys/fs/selinux/null
+  JE_MALLOC_CONF
+  MALLOC_CONF
+  error getting old personality value: %s
+  error setting PER_LINUX32 personality: %s
+  failed to make WriteProtected nonwritable in initialize
+  failed to make WriteProtected writable in mutate: %s
+  failed to make WriteProtected nonwritable in mutate: %s
+  FORTIFY: %s
+  /dev/socket/logdw
+  /dev/stderr
+  ro.logd.timestamp
+  persist.logd.timestamp
+  (null)
+  bionic/libc/bionic/libc_logging.cpp
+  conversion specifier unsupported
+  sign/precision unsupported
+  /dev/pts/%u
+  /proc/self/fd/%d
+  Unknown error %d
+  Unknown
+  Real-time
+  %s signal %d
+  Success
+  Operation not permitted
+  No such file or directory
+  No such process
+  Interrupted system call
+  I/O error
+  No such device or address
+  Argument list too long
+  Exec format error
+  Bad file descriptor
+  No child processes
+  Try again
+  Out of memory
+  Permission denied
+  Bad address
+  Block device required
+  Device or resource busy
+  File exists
+  Cross-device link
+  No such device
+  Not a directory
+  Is a directory
+  Invalid argument
+  File table overflow
+  Too many open files
+  Not a typewriter
+  Text file busy
+  File too large
+  No space left on device
+  Illegal seek
+  Read-only file system
+  Too many links
+  Broken pipe
+  Math argument out of domain of func
+  Math result not representable
+  Resource deadlock would occur
+  File name too long
+  No record locks available
+  Function not implemented
+  Directory not empty
+  Too many symbolic links encountered
+  No message of desired type
+  Identifier removed
+  Channel number out of range
+  Level 2 not synchronized
+  Level 3 halted
+  Level 3 reset
+  Link number out of range
+  Protocol driver not attached
+  No CSI structure available
+  Level 2 halted
+  Invalid exchange
+  Invalid request descriptor
+  Exchange full
+  No anode
+  Invalid request code
+  Invalid slot
+  Bad font file format
+  Device not a stream
+  No data available
+  Timer expired
+  Out of streams resources
+  Machine is not on the network
+  Package not installed
+  Object is remote
+  Link has been severed
+  Advertise error
+  Srmount error
+  Communication error on send
+  Protocol error
+  Multihop attempted
+  RFS specific error
+  Not a data message
+  Value too large for defined data type
+  Name not unique on network
+  File descriptor in bad state
+  Remote address changed
+  Can not access a needed shared library
+  Accessing a corrupted shared library
+  .lib section in a.out corrupted
+  Attempting to link in too many shared libraries
+  Cannot exec a shared library directly
+  Illegal byte sequence
+  Interrupted system call should be restarted
+  Streams pipe error
+  Too many users
+  Socket operation on non-socket
+  Destination address required
+  Message too long
+  Protocol wrong type for socket
+  Protocol not available
+  Protocol not supported
+  Socket type not supported
+  Operation not supported on transport endpoint
+  Protocol family not supported
+  Address family not supported by protocol
+  Address already in use
+  Cannot assign requested address
+  Network is down
+  Network is unreachable
+  Network dropped connection because of reset
+  Software caused connection abort
+  Connection reset by peer
+  No buffer space available
+  Transport endpoint is already connected
+  Transport endpoint is not connected
+  Cannot send after transport endpoint shutdown
+  Too many references: cannot splice
+  Connection timed out
+  Connection refused
+  Host is down
+  No route to host
+  Operation already in progress
+  Operation now in progress
+  Stale NFS file handle
+  Structure needs cleaning
+  Not a XENIX named type file
+  No XENIX semaphores available
+  Is a named type file
+  Remote I/O error
+  Quota exceeded
+  No medium found
+  Wrong medium type
+  Operation Canceled
+  Required key not available
+  Key has expired
+  Key has been revoked
+  Key was rejected by service
+  Owner died
+  State not recoverable
+  Hangup
+  Interrupt
+  Quit
+  Illegal instruction
+  Trap
+  Aborted
+  Floating point exception
+  Killed
+  Bus error
+  Segmentation fault
+  Alarm clock
+  Terminated
+  User signal 1
+  User signal 2
+  Child exited
+  Power failure
+  Window size changed
+  Urgent I/O condition
+  I/O possible
+  Stopped (signal)
+  Stopped
+  Continue
+  Stopped (tty input)
+  Stopped (tty output)
+  Virtual timer expired
+  Profiling timer expired
+  CPU time limit exceeded
+  File size limit exceeded
+  Stack fault
+  Bad system call
+  %s%c%s%c%s
+  root
+  bluetooth
+  graphics
+  input
+  audio
+  camera
+  compass
+  mount
+  wifi
+  install
+  media
+  dhcp
+  sdcard_rw
+  keystore
+  mdnsr
+  media_rw
+  drmrpc
+  sdcard_r
+  clat
+  loop_radio
+  mediadrm
+  package_info
+  sdcard_pics
+  sdcard_av
+  sdcard_all
+  logd
+  shared_relro
+  dbus
+  tlsdate
+  mediaex
+  audioserver
+  metrics_coll
+  metricsd
+  webserv
+  debuggerd
+  mediacodec
+  cameraserver
+  cache
+  diag
+  net_bt_admin
+  net_bt
+  inet
+  net_raw
+  net_admin
+  net_bw_stats
+  net_bw_acct
+  net_bt_stack
+  readproc
+  wakelock
+  everybody
+  misc
+  nobody
+  oem_%u
+  /data
+  u%u_i%u
+  u%u_%s
+  u%u_a%u
+  all_a%u
+  %s/%s
+  legacy_system_prop_area
+  Access denied finding property "%s"
+  Access denied adding property "%s"
+  security.selinux
+  fsetxattr failed to set context (%s) for "%s"
+  ANDROID_PROPERTY_WORKSPACE
+  /property_contexts
+  ctl.
+  %s/properties_serial
+  u:object_r:properties_serial:s0
+  new failed to allocate %zu bytes
+  new[] failed to allocate %zu bytes
+  POSIXLY_CORRECT
+  PATH
+  /sbin:/vendor/bin:/system/sbin:/system/bin:/system/xbin
+  execvp: 
+  : path too long
+  bug in vfprintf: bad base
+  thread signal stack
+  thread signal stack guard page
+  pthread_create sched_setscheduler call failed: %s
+  pthread_create failed: clone failed: %s
+  pthread_create failed: couldn't allocate %zu-bytes mapped space: %s
+  pthread_create failed: couldn't mprotect PROT_NONE %zu-byte stack guard region: %s
+  thread stack guard page
+  Contending for pthread mutex
+  stack corruption detected
+  fread: prevented write past end of buffer
+  memchr: prevented read past end of buffer
+  memmove: prevented write past end of buffer
+  read: prevented write past end of buffer
+  read: count > SSIZE_MAX
+  readlink: prevented write past end of buffer
+  readlink: size > SSIZE_MAX
+  strchr: prevented read past end of buffer
+  strlcpy: prevented write past end of buffer
+  strlen: prevented read past end of buffer
+  strncpy: prevented write past end of buffer
+  strncpy: prevented read past end of buffer
+  strrchr: prevented read past end of buffer
+  umask: called with invalid mask
+  vsnprintf: prevented write past end of buffer
+  vsprintf: prevented write past end of buffer
+  write: prevented read past end of buffer
+  write: count > SSIZE_MAX
+  atexit handlers
+  %s:%d: assertion "%s" failed
+  %s:%d: %s: assertion "%s" failed
+  longjmp botch
+  B|%d|%s
+  /sys/kernel/debug/tracing/trace_marker
+  Infinity
+  inity
+  %s: 
+  false
+  <jemalloc>: Error in pthread_atfork()
+  thread.tcache.enabled
+  <jemalloc>: Error in atexit()
+  abort
+  true
+  Invalid conf value
+  lg_chunk
+  Error setting dss
+  narenas
+  Out-of-range conf value
+  purge
+  lg_dirty_mult
+  decay_time
+  stats_print
+  junk
+  alloc
+  free
+  quarantine
+  redzone
+  zero
+  tcache
+  lg_tcache_max
+  Invalid conf pair
+  <jemalloc>: Conf string ends with key
+  <jemalloc>: Malformed conf string
+  <jemalloc>: Conf string ends with comma
+  <jemalloc>: %s: %.*s:%.*s
+  Invalid address %p passed to free: invalid page index
+  Invalid address %p passed to free: value not allocated
+  <jemalloc>: Error allocating TSD for 
+  <jemalloc>: Error setting TSD for 
+  <jemalloc>: Error re-initializing mutex in child
+  epoch
+  <jemalloc>: Memory allocation failure in mallctl("epoch", ...)
+  <jemalloc>: Failure in mallctl("epoch", ...)
+  ___ Begin jemalloc statistics ___
+  <jemalloc>: Failure in xmallctl("%s", ...)
+  Version: %s
+  config.debug
+  Assertions %s
+  enabled
+  disabled
+  config.malloc_conf: "%s"
+  Run-time option settings:
+  opt.abort
+    opt.abort: %s
+  opt.lg_chunk
+    opt.lg_chunk: %zu
+  opt.dss
+    opt.dss: "%s"
+  opt.narenas
+    opt.narenas: %zu
+  opt.purge
+    opt.purge: "%s"
+  opt.lg_dirty_mult
+  arenas.lg_dirty_mult
+    opt.lg_dirty_mult: %zd (arenas.lg_dirty_mult: %zd)
+  opt.decay_time
+  arenas.decay_time
+    opt.decay_time: %zd (arenas.decay_time: %zd)
+  opt.stats_print
+    opt.stats_print: %s
+  opt.junk
+    opt.junk: "%s"
+  opt.quarantine
+    opt.quarantine: %zu
+  opt.redzone
+    opt.redzone: %s
+  opt.zero
+    opt.zero: %s
+  opt.utrace
+    opt.utrace: %s
+  opt.valgrind
+    opt.valgrind: %s
+  opt.xmalloc
+    opt.xmalloc: %s
+  opt.tcache
+    opt.tcache: %s
+  opt.lg_tcache_max
+    opt.lg_tcache_max: %zd
+  opt.prof
+    opt.prof: %s
+  opt.prof_prefix
+    opt.prof_prefix: "%s"
+  opt.prof_active
+  prof.active
+    opt.prof_active: %s (prof.active: %s)
+  opt.prof_thread_active_init
+  prof.thread_active_init
+    opt.prof_thread_active_init: %s (prof.thread_active_init: %s)
+  opt.lg_prof_sample
+    opt.lg_prof_sample: %zd
+  opt.prof_accum
+    opt.prof_accum: %s
+  opt.lg_prof_interval
+    opt.lg_prof_interval: %zd
+  opt.prof_gdump
+    opt.prof_gdump: %s
+  opt.prof_final
+    opt.prof_final: %s
+  opt.prof_leak
+    opt.prof_leak: %s
+  CPUs: %u
+  arenas.narenas
+  Arenas: %u
+  Pointer size: %zu
+  arenas.quantum
+  Quantum size: %zu
+  arenas.page
+  Page size: %zu
+  Min active:dirty page ratio per arena: %u:1
+  Min active:dirty page ratio per arena: N/A
+  Unused dirty page decay time: %zd%s
+   (no decay)
+  arenas.tcache_max
+  Maximum thread-cached size class: %zu
+  prof.lg_sample
+  Average profile sample interval: %llu (2^%zu)
+  Average profile dump interval: %llu (2^%zd)
+  Average profile dump interval: N/A
+  Chunk size: %zu (2^%zu)
+  stats.cactive
+  stats.allocated
+  stats.active
+  stats.metadata
+  stats.resident
+  stats.mapped
+  Allocated: %zu, active: %zu, metadata: %zu, resident: %zu, mapped: %zu
+  Current active ceiling: %zu
+  arenas.initialized
+  Merged arenas stats:
+  arenas[%u]:
+  --- End jemalloc statistics ---
+  stats.arenas.0.nthreads
+  <jemalloc>: Failure in xmallctlnametomib("%s", ...)
+  <jemalloc>: Failure in xmallctlbymib()
+  assigned threads: %u
+  stats.arenas.0.dss
+  dss allocation precedence: %s
+  stats.arenas.0.lg_dirty_mult
+  min active:dirty page ratio: %u:1
+  min active:dirty page ratio: N/A
+  stats.arenas.0.decay_time
+  decay time: %zd
+  decay time: N/A
+  stats.arenas.0.pactive
+  stats.arenas.0.pdirty
+  stats.arenas.0.npurge
+  stats.arenas.0.nmadvise
+  stats.arenas.0.purged
+  purging: dirty: %zu, sweeps: %llu, madvises: %llu, purged: %llu
+                              allocated      nmalloc      ndalloc    nrequests
+  stats.arenas.0.small.allocated
+  stats.arenas.0.small.nmalloc
+  stats.arenas.0.small.ndalloc
+  stats.arenas.0.small.nrequests
+  small:                   %12zu %12llu %12llu %12llu
+  stats.arenas.0.large.allocated
+  stats.arenas.0.large.nmalloc
+  stats.arenas.0.large.ndalloc
+  stats.arenas.0.large.nrequests
+  large:                   %12zu %12llu %12llu %12llu
+  stats.arenas.0.huge.allocated
+  stats.arenas.0.huge.nmalloc
+  stats.arenas.0.huge.ndalloc
+  stats.arenas.0.huge.nrequests
+  huge:                    %12zu %12llu %12llu %12llu
+  total:                   %12zu %12llu %12llu %12llu
+  active:                  %12zu
+  stats.arenas.0.mapped
+  mapped:                  %12zu
+  stats.arenas.0.metadata.mapped
+  stats.arenas.0.metadata.allocated
+  metadata: mapped: %zu, allocated: %zu
+  config.tcache
+  bins:           size ind    allocated      nmalloc      ndalloc    nrequests      curregs      curruns regs pgs  util      newruns       reruns
+  arenas.nbins
+  stats.arenas.0.bins.0.nruns
+                       ---
+  arenas.bin.0.size
+  arenas.bin.0.nregs
+  arenas.bin.0.run_size
+  stats.arenas.0.bins.0.nmalloc
+  stats.arenas.0.bins.0.ndalloc
+  stats.arenas.0.bins.0.curregs
+  stats.arenas.0.bins.0.nrequests
+  stats.arenas.0.bins.0.nfills
+  stats.arenas.0.bins.0.nflushes
+  stats.arenas.0.bins.0.nreruns
+  stats.arenas.0.bins.0.curruns
+  0.00%zu
+  0.0%zu
+  0.%zu
+  %20zu %3u %12zu %12llu %12llu %12llu %12zu %12zu %4u %3zu %-5s %12llu %12llu %12llu %12llu
+  %20zu %3u %12zu %12llu %12llu %12llu %12zu %12zu %4u %3zu %-5s %12llu %12llu
+  large:          size ind    allocated      nmalloc      ndalloc    nrequests      curruns
+  arenas.nlruns
+  stats.arenas.0.lruns.0.nmalloc
+  stats.arenas.0.lruns.0.ndalloc
+  stats.arenas.0.lruns.0.nrequests
+  arenas.lrun.0.size
+  stats.arenas.0.lruns.0.curruns
+  %20zu %3u %12zu %12llu %12llu %12llu %12zu
+  huge:           size ind    allocated      nmalloc      ndalloc    nrequests   curhchunks
+  arenas.nhchunks
+  stats.arenas.0.hchunks.0.nmalloc
+  stats.arenas.0.hchunks.0.ndalloc
+  stats.arenas.0.hchunks.0.nrequests
+  arenas.hchunk.0.size
+  stats.arenas.0.hchunks.0.curhchunks
+  0123456789
+  0123456789ABCDEF
+  0123456789abcdef
+  0123456789abcdefghijklmnopqrstuvwxyz
+  /sys/devices/system/cpu
+  /sys/devices/system/cpu/online
+  MemTotal: %ld kB
+  MemFree: %ld kB
+  cpu%u%c
+  /proc/meminfo
+  abcdef
+  ABCDEF
+  ratio
+  decay
+  <jemalloc>: Corrupt redzone %zu byte%s %s %p (size %zu), byte=%#x
+  after
+  before
+  secondary
+  primary
+  thread
+  config
+  arena
+  arenas
+  prof
+  stats
+  4.1.0-4-g33184bf69813087bf1885b0993685f9d03320c69
+  allocated
+  allocatedp
+  deallocated
+  deallocatedp
+  flush
+  name
+  active
+  cache_oblivious
+  debug
+  fill
+  lazy_lock
+  malloc_conf
+  munmap
+  prof_libgcc
+  prof_libunwind
+  utrace
+  valgrind
+  xmalloc
+  prof_prefix
+  prof_active
+  prof_thread_active_init
+  lg_prof_sample
+  lg_prof_interval
+  prof_gdump
+  prof_final
+  prof_leak
+  prof_accum
+  create
+  destroy
+  chunk_hooks
+  initialized
+  quantum
+  page
+  tcache_max
+  nbins
+  nhbins
+  nlruns
+  lrun
+  nhchunks
+  hchunk
+  extend
+  size
+  nregs
+  run_size
+  thread_active_init
+  dump
+  gdump
+  reset
+  interval
+  lg_sample
+  cactive
+  metadata
+  resident
+  mapped
+  nthreads
+  pactive
+  pdirty
+  npurge
+  nmadvise
+  purged
+  small
+  large
+  huge
+  bins
+  lruns
+  hchunks
+  nmalloc
+  ndalloc
+  nrequests
+  curregs
+  nfills
+  nflushes
+  nruns
+  nreruns
+  curruns
+  curhchunks
+  <jemalloc>: Error in munmap(): %s
+  /data/data/com.koushikdutta.superuser
+  /data/data/com.koushikdutta.superuser/databases/su.sqlite
+  illegal option -- %c
+  invalid option -- %c
+  option requires an argument -- %c
+  option `%s%.*s' is ambiguous
+  option `%s%.*s' doesn't allow an argument
+  option `%s%s' requires an argument
+  unrecognized option `%s%s'
+  0123456789abcdef0123456789ABCDEF
+  debug.atrace.tags.enableflags
+  O8M2
+  [%Co
+  vH7B
+  W4vC
+  [%Co
+           (((((                  
+  AAAAAA
+  BBBBBB
+  memset: prevented write past end of buffer
+  memcpy: prevented write past end of buffer
+  /dev/__properties__
+                  0000000000000000
+  GCC: (GNU) 4.9 20150123 (prerelease)
+  Android clang version 3.8.256229  (based on LLVM 3.8.256229)
+  gold 1.11
+  aeabi
+  ARM v7
+  .shstrtab
+  .note.android.ident
+  .note.gnu.build-id
+  .text
+  .ARM.extab
+  .ARM.exidx
+  .rodata
+  .eh_frame
+  .preinit_array
+  .init_array
+  .fini_array
+  .data.rel.ro
+  .got
+  .data
+  .bss
+  .comment
+  .note.gnu.gold-version
+  .ARM.attributes
+  .gnu_debuglink
+
+========================================
+ELF BINARY: att_policy (/system/bin/att_policy)
+========================================
+SHA-256: cdfff805f17c3f10a64584d15f398acada77aa731657a066f509dfad7b5501bc  /home/kioda/auditoria-script-tvBox/binaries/att_policy
+FILE: ELF 32-bit LSB shared object, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /system/bin/linker, for Android 24, BuildID[md5/uuid]=0d5c85aff46fe2117874c836cf16146b, stripped
+
+--- STRINGS RELEVANTES ---
+  /system/bin/linker
+  Android
+  __libc_init
+  LIBC
+  dladdr
+  __cxa_atexit
+  __register_atfork
+  __aeabi_memclr8
+  LIBC_N
+  __errno
+  __read_chk
+  __snprintf_chk
+  __stack_chk_fail
+  __stack_chk_guard
+  __strlen_chk
+  atoi
+  close
+  closedir
+  dlclose
+  dlerror
+  dlopen
+  dlsym
+  fclose
+  fgets
+  fopen
+  inotify_add_watch
+  inotify_init
+  inotify_rm_watch
+  open
+  opendir
+  printf
+  property_set
+  puts
+  readdir
+  sleep
+  strerror
+  strncmp
+  abort
+  fprintf
+  stderr
+  __aeabi_memcpy
+  __gnu_Unwind_Find_exidx
+  __bss_start
+  _end
+  _edata
+  H!FxD
+  GHxD
+  EHxD
+  CHDIxDyD
+  BHxD
+  zr@IxDyD
+  6I8FyD
+  FHFQF
+  IxDyD
+  -xDO
+  "HxD
+   H!IxDyD
+  I(FyD
+  !*F0F
+  F0F!F
+  F=IxD
+  8H8IxDyD
+  7HxD
+  )F2F
+  FoF F9FO
+  &HxD
+  %H%IxDyD
+   F1F
+  !HxD
+  H)FxD
+   F1F
+  $yD	h	h
+   F1F
+  H1FxD
+  FvHwI
+  ,xDyD
+  rHxD
+  D~DO
+  oHxD
+  nHxD
+  `hai
+  F>Fo
+  7FVF
+  @F@!
+  h #yD
+  XF !
+  KHJFKIxDyD
+  XF1F
+  XF1F
+   h!i
+  " Fw
+   FBF
+  E[--
+   " F
+  yD	h	h
+  (F1F
+  (F"F
+  q(F"F
+  JxDzD
+  2h F)F
+  JxDzD
+  )F@h
+   @F"F
+  yD	h	h
+  JxDzD
+  yD	h	h
+  `)F0F
+  iF0F
+  0F9F
+  "i(FO
+  (FIF
+  d*F	
+   e8F
+  JxDzD
+   a(F
+  (F!F
+  JxDzD
+  aFrF
+  IyD	h	h
+  	h	h
+  IyD	h	h
+  	h	h
+  HzDxD
+  0h)F
+   h)F2F
+  %Bk F
+  G(Fp
+  FBi0F
+  0h)F
+  FBi8F
+  8h1F*FCF
+  hJj!F
+  KxDyD{D
+  qDPp
+  KxDyD{D
+  "p(O
+  KxDyD{D
+  qEPO
+  qEPO
+  qEPO
+  KxDyD{D
+  !Bk F
+  FyD	h	h
+  0F)F
+  yD	h	h
+  jF F)F
+  IxDyD
+  #rFcF
+  bh^h
+  (F)FP
+  +N~D
+  )N~D
+  KxDyD{D
+  KxDyD{D
+  xDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG	HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  aw_sysctrl_access %s
+  /proc
+  aw_search_process
+  %s procs_start %d
+  /proc/%d/comm
+  get process %s
+  -%s %d
+  aw_check_process
+  aw_inotify_event
+  aw_inotify_event:%s, err:%s
+  watch could not read event, %s
+  aw_use_so: dlsym error: %s
+  mode%d:1
+  mode%d:0
+  benchmark.boost.pref
+  aw_boost_antutu_policy: policy=%s
+  /proc/%d/oom_adj
+  /system/lib/libbm_core.so
+  boostup_cpu_entry
+  .benchmark.full
+  /data/data/
+  /data/data/com.antutu.ABenchMark/
+  tutu.ABenchMark
+  void _Unwind_Resume(_Unwind_Exception *)
+  external/libunwind_llvm/src/Unwind-EHABI.cpp
+  _Unwind_Resume() can't return
+  _Unwind_VRS_Result _Unwind_VRS_Set(_Unwind_Context *, _Unwind_VRS_RegClass, uint32_t, _Unwind_VRS_DataRepresentation, void *)
+  unsupported register class
+  _Unwind_VRS_Result _Unwind_VRS_Pop(_Unwind_Context *, _Unwind_VRS_RegClass, uint32_t, _Unwind_VRS_DataRepresentation)
+  _Unwind_Reason_Code unwind_phase2(unw_context_t *, _Unwind_Exception *, bool)
+  during phase1 personality function said it would stop here, but now in phase2 it did not stop here
+  _Unwind_VRS_Result _Unwind_VRS_Get_Internal(_Unwind_Context *, _Unwind_VRS_RegClass, uint32_t, _Unwind_VRS_DataRepresentation, void *)
+  external/libunwind_llvm/src/UnwindCursor.hpp
+  uint32_t libunwind::Registers_arm::getRegister(int)
+  external/libunwind_llvm/src/Registers.hpp
+  unsupported arm register
+  void libunwind::Registers_arm::setRegister(int, uint32_t)
+  unw_fpreg_t libunwind::Registers_arm::getFloatRegister(int)
+  Unknown ARM float register
+  void libunwind::Registers_arm::setFloatRegister(int, unw_fpreg_t)
+  unknown personality routine
+  index inlined table detected but pr function requires extra words
+  unknown register
+  aw_sysctrl_access 1
+  err: aw_inotify_event, path is null
+  aw_boost_system_factor: para is null
+  aw_use_so: libm_handle is null
+  aw_antutu_watch para is null
+  aw_antutu_watch second
+  aw_antutu_watch first
+  GCC: (GNU) 4.9 20150123 (prerelease)
+  Android clang version 3.8.256229  (based on LLVM 3.8.256229)
+  gold 1.11
+  aeabi
+  ARM v7
+  att_policy
+  .shstrtab
+  .interp
+  .note.android.ident
+  .note.gnu.build-id
+  .dynsym
+  .dynstr
+  .gnu.hash
+  .gnu.version
+  .gnu.version_r
+  .rel.dyn
+  .rel.plt
+  .text
+  .ARM.exidx
+  .ARM.extab
+  .rodata
+  .preinit_array
+  .init_array
+  .fini_array
+  .data.rel.ro
+  .dynamic
+  .got
+  .data
+  .bss
+  .comment
+  .note.gnu.gold-version
+  .ARM.attributes
+  .gnu_debuglink
+
+========================================
+ELF BINARY: su (/system/xbin/su)
+========================================
+SHA-256: 7e40a1b2258beb31f65af47a77dfc725d15547ca74abda82f52c587c69fc996d  /home/kioda/auditoria-script-tvBox/binaries/su
+FILE: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /system/bin/linker, stripped
+
+--- STRINGS RELEVANTES ---
+  /system/bin/linker
+  __libc_init
+  __cxa_atexit
+  fflush
+  vfprintf
+  fprintf
+  exit
+  __sF
+  __stack_chk_guard
+  malloc
+  memset
+  free
+  dup2
+  __errno
+  __stack_chk_fail
+  lstat
+  memcpy
+  strchr
+  ptsname_r
+  open
+  lseek
+  read
+  close
+  strlen
+  strncmp
+  strncpy
+  unsetenv
+  access
+  strcmp
+  write
+  clock_gettime
+  strcpy
+  atoi
+  snprintf
+  fopen
+  fgets
+  fclose
+  atol
+  time
+  sscanf
+  fgetc
+  strstr
+  readlink
+  opendir
+  readdir
+  closedir
+  poll
+  sigaction
+  fork
+  execve
+  execv
+  waitpid
+  getuid
+  geteuid
+  getgid
+  getegid
+  fstat
+  nanosleep
+  setsid
+  pthread_attr_init
+  pthread_attr_setdetachstate
+  pthread_create
+  stat
+  strcat
+  socketpair
+  select
+  kill
+  setresgid
+  setgroups
+  setresuid
+  getenv
+  execle
+  fchmod
+  getpid
+  capget
+  socket
+  connect
+  pthread_mutex_lock
+  pthread_mutex_unlock
+  chown
+  chmod
+  mkdir
+  unlink
+  setsockopt
+  bind
+  listen
+  accept
+  execl
+  inotify_init
+  inotify_add_watch
+  pthread_exit
+  syscall
+  mount
+  umount
+  umount2
+  recvmsg
+  getsockopt
+  ioctl
+  pipe
+  chdir
+  pthread_mutex_init
+  sendmsg
+  isatty
+  fcntl
+  unlockpt
+  fchown
+  strrchr
+  printf
+  umask
+  setgid
+  setuid
+  setregid
+  setreuid
+  putenv
+  setenv
+  getpwuid
+  __system_property_get
+  dlopen
+  dlsym
+  setbuf
+  getppid
+  srand48
+  lrand48
+  getpwnam
+  raise
+  __gnu_Unwind_Find_exidx
+  abort
+  __cxa_begin_cleanup
+  __cxa_type_match
+  __cxa_call_unexpected
+  _edata
+  __bss_start
+  _end
+  J}D-h
+  ~M}D
+  ~M}D
+  tHxD	
+  jHxD	
+  PHPIQJ
+  xDyDzD#
+  $;I(
+  ;y0+
+  3y0+
+  $xD	
+  HxD	
+  	K	I
+  KyD{D
+  K{D	
+  IxhyD	
+  IxDyD	
+  IxhyD	
+  IxhyD	
+  IxhyD	
+  X#h	
+  IxhyD	
+  zD{DxD	
+  XxD!h	
+  |K|H
+  wK{D#
+  aKbI
+  h#h]@
+  QIxhyD	
+  LIxhyD	
+  GIxhyD	
+  DIxhyD	
+  BIxhyD	
+  ?IxhyD	
+  DBDA
+   hyD
+  I hyD	
+  I hyD	
+  I hyD	
+  I hyD	
+  zD#h	
+  khzD
+  "ah/
+  yI hyD	
+  vI hyD	
+  mI hyD	
+  jI hyD	
+  fI hyD	
+  dI hyD	
+  aI hyD	
+  ^I hyD	
+  [I hyD	
+  XI hyD	
+  UI hyD	
+  RI hyD	
+  OI hyD	
+  LI hyD	
+  II hyD	
+  FI hyD	
+  CI hyD	
+  @I hyD	
+  =I hyD	
+  :I hyD	
+  7I hyD	
+  4I hyD	
+  #[Bka
+  zD#h
+  khzD
+  zD+h
+  F`FZ
+  zD+h
+  "FKR
+  $IB;K
+  #6JR
+  !-J-K 
+  zD{D
+  !*J 
+  zD{D
+  CBCA
+  I8hyD
+  I8hyD
+  wL|D
+  wL|D
+  ";`LK
+  (K{DQ
+  #;`8h
+  ;`;h
+  OIxhyD
+  DIxhyD
+  !@HI
+  3IxhyD
+  1IxhyD
+  )IxhyD
+  %IxhyD
+  "IxhyD
+   IxhyD
+  |D$h{D
+  |D$h
+  |D$h
+  |D$h
+  yDH"
+  _#+p
+  +K{D
+  FBFA8
+  DBDA(
+   |D$h
+  !}D(
+  !}D(
+  !}D(
+  !}D(
+  !}D(
+  !}D(
+  !}D(
+  !}D(
+  !}D(
+  !}D(
+  `|D$h%`
+  h!K	2
+  FnF{D
+  h[]sU
+  zh#h0
+  `#hh
+  zD{D!
+  "+iR
+  \!:]*
+  YH\I
+  UHYI
+  LHSI
+  IHOI
+  @HJI
+  <HGI
+  ,O:I
+  (H6I
+  CBCA
+  vKrJ
+  iHjI
+  `VKZJ
+  WHZI
+  BHWI
+  JHRI
+  6HNI
+  <HGI
+  0H>I
+  #H4I
+  jLkK
+  "aK1
+  ZK[I
+  TI(h2
+  LNMHMI~D2
+  yDxD
+  <J;hABAA
+  5IaX
+  (`*J3h
+  !(J)KI
+  zD{D
+  %JzD
+  $JzD
+  ##`#h
+  IxDyD
+  1:PBBA
+  5L5H6I|D$h5J
+  #hyDzDa
+  2O3M
+  D}DJ
+  +pxDip
+  &`#h
+  %L%I
+  D%LiD
+  |D$h(
+  !!JI
+  x0;	+
+  5L5J
+  D5LjD
+  |D$h0
+  !,J0
+  d5[B
+  09	)
+  IMII
+  }D-hyD
+  yD#"
+  9K{D
+  7K{D
+  .K{D
+  !K{D
+  J}D-h
+  #+T(
+  oOgM
+  !'O8J
+  CLCJDN
+  |D$h
+  !5JI
+   @BB
+  !#JI
+  x0;	+
+  7K7L
+  {D|D
+  .HxD
+  @!zD
+   ";z
+  dJ|D$h
+  [B+`
+  !MJ0
+  ##T0
+  !9J	
+  ##T 
+  ,N~D0
+  !}D-h
+  |D$hIB
+  |D$h
+  L|D$h#h
+  |D$h#h
+  !~D0
+  !~D0
+  8L8J
+  8H|D$h
+  iF|D$h
+   `#h
+  |D$h
+  FChh
+  }D-h+h
+  |D$h(
+  HxDpG
+  HxDpG
+  ,J@!zD#
+  iF|D$h#h
+  D{D	
+  XyDhh
+  !@& 
+  UX5@n
+  9HxD
+  !J"K"HzDB
+  "J{DxDzDC
+  JzDE
+  L|D 
+  |L|D|HH
+  (bxH
+  XpJ !
+  fJfKgIzD{DyD
+  eJfKfIzD{DyD
+  'SHxD
+  RIRJ
+  yDzD+
+  #MIMJ
+  yDzD+
+  #M}D
+  LHxD
+  KHxD
+  IHxD
+  #x/+
+  !JOJKI
+  !@KI
+  !7KI
+  !-KI
+  .L.J
+  |D$hR
+  'IyD
+  'IyD@&
+  |D$h
+  |D$h#h
+  |D$h#h
+  }D-h
+  |D$h
+  K}D-h{D
+  h~D)h
+   L K
+  !IB9`x`
+  zDhF
+  iF|D$h
+  !~D0
+  H|D$hxD
+  fL|D	
+  @!*J
+  $L|D$h 
+  CLCK
+  !HxD
+  ##`(h
+  ",`0`
+  jLjK
+  `IHxD
+  @K{D
+  ?K{D
+  !?J(
+  K0h)
+  zD{D
+  zD{D
+  zD{D1
+  K0h)
+  zD{D
+  zD{D
+  rh6K
+  !|D 
+  #DBDA
+  !|D 
+  #zH{I
+  xDyD
+  !}D(
+  &rJrK h
+  izD{D
+  oJoK h
+  izD{D
+  lJlK h
+  izD{D
+  !}D(
+  !}D(
+  !}D(
+  !}D(
+  !}D(
+  !|D 
+  !}D(
+  x`?K
+  /K h
+  -K{D\
+  K h~D{D
+  K h*
+  K h*
+  K h*
+  ~D}D1
+  MzD{D}D
+  h h2
+  h h2
+  J h}D
+  izD{D
+   h|J
+  |K}M
+  izD}D
+  vJ h
+  !}D(
+  qJ h
+  izD+
+  %mNmJnK~D h
+  izD{D
+  jJjK h
+  izD{D
+  #eIeJ
+  zD!#
+  !|D 
+  XK{D
+  WK{D
+  WK{D
+  !|D 
+  NKNJ
+  XNKzD h{D
+  GKGI
+  CK hCJ{D
+  @K h@J{D
+  izD{D
+  "<HA!xDR
+  xDyD
+  KzD{D
+  J;izD
+  zD #
+  zD #
+   "rK
+   "jK
+   !]Ky
+   !UKy
+  #WIXJ
+  zD!#
+  #SISJ
+  zD!#
+  ML|D 
+  IL|D 
+  #CHDI"
+  %7N7J h~D
+  4J4K h
+  izD{D
+  1J1K h
+  izD{D
+  i-J(
+   #zD
+  "3K3M
+  {D}D
+  &I h&JyD
+  yi%K%M
+  !zD{D}D
+  L|D$h#h
+  #h\h 
+  |D$h
+  N#h~D
+  J6h{D
+  JzD+
+  |D$h
+  h|D$h
+  JzD3
+  nhch
+  %`e`
+  h`JC
+   hah
+  @rBrA
+  %#h`h
+  ##a 
+  lKdI
+  MK{D
+  LK{D
+  !LJ8
+  HK{D
+  HK{D
+  EJzD
+  <HxD
+  !|D 
+  jHxD
+  !|D 
+  bJ0h!
+  NL_M
+  ALNK
+  XMJ@!
+  hzD 
+  zD{D
+  `>M 
+  JLJK
+  -J.K
+   h)h
+  xD0J
+  1L1J(
+  |D$h#h
+  !|D$h
+  zD{D
+  BJzD
+  @N~D0
+  ;x#+	
+  3x!+
+  +H,IxDyD
+  *HxD
+  (M}D(
+  !}D(
+  M}D(
+  L|D 
+  !}D-h
+  J+hy
+  `/! h
+  #h}`;a
+  I hyD
+  `}D-h\
+  {D3`
+  $tP{i
+  `K`{a{i
+  zDZQ1
+  1h8i
+  xDzi
+  %]K{D
+  "hSI
+  EBEA
+  @HxD
+  BBBA;K{D
+  8K{D
+  !|D 
+  %J&K
+  xi{D
+  #J#K
+  zDxi
+  0J0L
+  DzD/L
+  h/I|D
+  'N'M(L~D6h
+  }D3h|D
+  -h$h
+  kFjF{`
+  I`h{D
+  KhF1
+  zD{D
+  JchzD
+  `0!{D
+  /!x`
+  phyD
+  zDJ`ri
+  zDJ`
+  `cK 
+  {j9i
+  <HxD
+  4H!i
+  -H!h
+  +H!h
+  ;h)J
+  ;ZBZA:a
+  Jsh 
+  KzD{D
+  vB~b
+  #[B{b
+  0" #
+   @BE
+  {j0"
+   rI*
+  `*hmKnI
+  "+`kh
+  #~c;b
+  a0"8#
+  l.@eF
+  eX.CfP0$
+  l"@c
+  \X"CZP
+  l0"(#
+   #I"
+  0" #
+  4#xi
+  4#xi
+  n+B>
+  #0"[
+  8l0$
+  RX"BN
+  $4#xi
+  xi	!
+  |D!h
+  Ha`xD
+  L|D h
+  	IyD
+  K{D[h
+  pGxG
+  ##a	#7
+  KzD{D
+  	# aBBPA@B
+  pG	 pGpGp
+  #lka
+  {B{A
+  "ca1
+  @lpG
+  jF+i
+  hF!l
+   iF"
+  bcc+h
+  CQ0+`
+  \XTP
+  )`H0
+  :ZrZh
+  Android
+  DIE: malloc fail
+  DIE: dup2 [%d]-->[%d] fail (%d)
+  DIE: credentials different than expected
+  DIE: file credentials different than expected
+  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789._- <>/[]
+  GCONV_PATH
+  GETCONF_DIR
+  HOSTALIASES
+  LD_AUDIT
+  LD_DEBUG
+  LD_DEBUG_OUTPUT
+  LD_DYNAMIC_WEAK
+  LD_LIBRARY_PATH
+  LD_ORIGIN_PATH
+  LD_PRELOAD
+  LD_PROFILE
+  LD_SHOW_AUXV
+  LD_USE_LOAD_BIAS
+  LOCALDOMAIN
+  LOCPATH
+  MALLOC_TRACE
+  MALLOC_CHECK_
+  NIS_PATH
+  NLSPATH
+  RESOLV_HOST_CONF
+  RES_OPTIONS
+  TMPDIR
+  TZDIR
+  LD_AOUT_LIBRARY_PATH
+  LD_AOUT_PRELOAD
+  /su/bin/sush
+  /system/xbin/sush
+  /tmp-mksh/tmp-mksh
+  /system/sbin/sh
+  /system/bin/sh
+  /system/bin/mksh
+  /system/xbin/sh
+  /sbin/sh
+  /vendor/sbin/sh
+  /vendor/bin/sh
+  /vendor/xbin/sh
+  /data/user_de/%d/eu.chainfire.supersu/files/supersu.cfg
+  /data/user/%d/eu.chainfire.supersu/files/supersu.cfg
+  /data/data/eu.chainfire.supersu/files/supersu.cfg
+  default
+  enablemultiuser
+  enableduringboot
+  enablemountnamespaceseparation
+  notify
+  nodefaultcontentlog
+  logsize
+  wait
+  access
+  expire
+  respectcm
+  trustsystem
+  forceshell
+  forceuser
+  forcegroups
+  /data/user_de/%d/eu.chainfire.supersu/logs/
+  /data/user/%d/eu.chainfire.supersu/logs/
+  USER=
+  u%d_a%d
+  u%d_i%d
+  /system/build.prop
+  ro.build.version.sdk
+  /su/bin
+  /data/data/eu.chainfire.supersu/logs/
+  /sys/fs/selinux
+  /sys/fs/selinux/enforce
+  /default.prop
+  ro.debuggable
+  ro.cm.version
+  ro.build.type
+  /data/property/persist.sys.root_access
+  /proc/%u/status
+  PPid:
+  Uid:
+  /system/bin/app_process
+  /bin/app_process
+  /system_root/system/bin/app_process
+  %s (deleted)
+  /proc/%u/cmdline
+  /proc/%u/exe
+  system_server
+  zygote
+  /proc/%u/fd
+  /proc/%u/fd/%s
+  .apk
+  /data/app/
+  /data/app-asec/
+  /data/app-private/
+  /data/app-ephemeral/
+  /mnt/
+  /system/app/
+  /system/priv-app/
+  /system_root/system/app/
+  /system_root/system/priv-app/
+  /vendor/app/
+  /vendor/priv-app/
+  /oem/app/
+  /oem/priv-app/
+  /odm/app/
+  /odm/priv-app/
+  /sbin/adbd
+  /proc/
+  /proc/%d/cmdline
+  zygote32
+  daemonsu
+  daemonsu:mount:%d:%d
+  daemonsu:%d:%d
+  /proc/self/attr/current
+  /proc/self/attr/prev
+  /proc/self/attr/exec
+  /proc/self/attr/fscreate
+  /proc/self/attr/sockcreate
+  u:r:init:s0
+  u:r:supersu:s0
+  /proc/self/fd
+  /dev/__properties__
+  /dev/
+  /proc/self/fd/%s
+  /dev/null
+  DIE: open /dev/null failed
+  /su/bin/daemonsu
+  /system/xbin/daemonsu
+  /su/bin/supolicy
+  /system/xbin/supolicy
+  /system/bin/app_process32
+  /system/bin/app_process32_original
+  /system/bin/app_process32_xposed
+  /system/bin/app_process64
+  /system/bin/app_process64_original
+  /system/bin/app_process64_xposed
+  /system/bin/app_process_init
+  /proc/%d/environ
+  /data/user_de/0/eu.chainfire.supersu/requests/
+  /data/data/eu.chainfire.supersu/requests/
+  ANDROID_PROPERTY_WORKSPACE=
+  BOOTCLASSPATH=
+  EXTERNAL_STORAGE=
+   --include-stopped-packages
+   --receiver-replace-pending
+   --receiver-foreground
+  INTERACTIVE
+  %s%d
+  u:r:shell:s0
+  PATH=/sbin:/vendor/bin:/system/sbin:/system/bin:/system/xbin
+  LD_LIBRARY_PATH=/vendor/lib64:/vendor/lib:/system/lib64:/system/lib
+  ANDROID_ROOT=/system
+  ANDROID_ASSETS=/system/app
+  ANDROID_DATA=/data
+  ANDROID_PROPERTY_WORKSPACE
+  ANDROID_PROPERTY_WORKSPACE=%s
+  /system
+  BOOTCLASSPATH
+  /system/framework/core.jar:
+  %[^:]:%s
+  BOOTCLASSPATH=%s
+  EXTERNAL_STORAGE
+  EXTERNAL_STORAGE=%s
+   --user %d
+  %s%s%s
+  completed:
+  result=
+  /vendor
+  /system/framework
+  /system/app
+  /sd-ext
+  /su/
+  diploid
+  %s/%s
+  /vendor/lib64
+  LD_PRELOAD=%s
+  /system/lib64
+  /vendor/lib
+  /system/lib
+  GRANTED
+  DENIED
+  %sL%010u%04d.%s.%s
+   %s 
+  /data/data/supersu/
+  /data/data/supersu/system/
+  /data/data/eu.chainfire.supersu/connections/
+  /data/data/eu.chainfire.supersu/connections/system/
+  eu.chainfire.supersu
+  %s:reverse:%d:%d
+  %s%s
+  eu.chainfire.supersu:mount
+  u:r:toolbox:s0
+  eu.chainfire.supersu:reverse:%d:%d
+  eu.chainfire.supersu:mount:reverse:%d:%d
+  %s:%d
+  /system/bin/toybox
+  /system/bin/toolbox
+  /data/data/eu.chainfire.supersu
+  chcon
+  u:object_r:app_data_file:s0
+  u:object_r:system_data_file:s0
+  u:object_r:toolbox_exec:s0
+  u:object_r:system_file:s0
+  EMULATED_STORAGE_SOURCE
+  EMULATED_STORAGE_TARGET
+  /mnt/runtime/default
+  rootfs
+  chmod
+  0755
+  /su/bin/app_process
+  /system/xbin
+  /system/xbin/su
+  /system/bin/.ext/.su
+  /system/etc/install-recovery.sh
+  ext4
+  /system_root
+  mount
+  ro,remount
+  mkdir
+  /tmp-mksh
+  u:object_r:rootfs:s0
+  /dev/.su.d
+  setprop
+  supolicy.loaded
+  daemonsu:su.d
+  for i in $(ls /su/su.d/); do log -p i -t su.d Running /su/su.d/$i; /su/su.d/$i; done;
+  for i in $(ls /system/su.d/); do log -p i -t su.d Running /system/su.d/$i; /system/su.d/$i; done;
+  /dev/.su.d.complete
+  tmpfs
+  uid=0,gid=1028,mode=0050
+  /storage/emulated/
+  /proc/self/mountinfo
+  %s/%d
+  %s/obb
+  %s/%d/Android
+  %s/%d/Android/obb
+  /storage/emulated
+  /storage
+  /mnt/user/%d
+  /storage/self
+  rw,remount
+  daemonsu:mount:master
+  daemonsu:master
+  daemonsu:mount:%d
+  daemonsu:%d
+  u:r:untrusted_app:s0
+  u:r:sudaemon:s0
+  u:r:sysinit:s0
+  --ignore-launch-context
+  /proc/mounts
+  %s %s %s
+  /data
+  /data/property/persist.sys.audit_safemode
+  /data/property/persist.sys.safemode
+  /cache/cfar-cleanup.sh
+  --sdk=%d
+  supolicy
+  --live
+  cfar-cleanup.sh
+  /oem
+  /odm
+  /proc/self/cwd
+  /dev/ptmx
+  /system/bin/ddexe
+  /system/bin/ddexe_real
+  #!/system/bin/sh
+  /system/xbin/daemonsu --auto-daemon &
+  /system/bin/ddexe_real
+  /su/bin/supolicy_wrapped
+  LD_LIBRARY_PATH=
+  LD_LIBRARY_PATH=/vendor/lib64:/vendor/lib:/system/lib64:/system/lib:/su/lib
+  --zygote
+  unknown
+  u:r:kernel:s0
+  u:r:init_shell:s0
+  u:r:recovery:s0
+  u:r:undefined_service:s0
+  /dev/.app_process_lock
+  --auto-daemon
+  appops
+  appwidget
+  bmgr
+  content
+  dumpstate
+  input
+  media
+  monkey
+  requestsync
+  settings
+  uiautomator
+  app_process
+  app_process32
+  app_process64
+  /su/bin/su
+  %s -c %s id
+  context[base]: 
+  context[%s-->base]: 
+  %s --context %s -c %s id
+  context[%s]: 
+  %s --context %s -c %s --context %s -c %s id
+  context[%s-->%s]: 
+  uid=
+  gid=
+  context=
+  FAIL
+  SuperSU v%d.%s%d (%s:%s) - Copyright (C) 2012-2017 - Chainfire & CCMT
+  Usage: su [options] [--] [-] [LOGIN] [--] [args...]
+  Options:
+    -c, --command COMMAND        pass COMMAND to the invoked shell
+    -cn, --context CONTEXT       switch to SELinux CONTEXT before invoking
+    -h, --help                   display this help message and exit
+    -, -l, --login               pretend the shell to be a login shell
+    -m, -p,
+    -mm, --mount-master          connect to a shell that can manipulate the
+                                 master mount namespace - requires su to be
+                                 running as daemon, must be first parameter
+    -mns, --mount-namespace PID  enter mount namespace used by PID
+    --preserve-environment       do not change environment variables
+    -s, --shell SHELL            use SHELL instead of the default detected shell
+    -v, --version                display public version and exit
+    -V                           display internal version and exit
+  Usage#2: su LOGIN COMMAND...
+  Usage#3: su {-d|--daemon|-ad|--auto-daemon|-r|--reload}
+    auto version starts daemon only on SDK >= 18 or
+    if SELinux is set to enforcing
+    (call only from a root session)
+  Usage#4: su {-i|--install|-u|--uninstall}
+    perform post-install / pre-uninstall maintenance
+    (call only from a root session)
+  Usage#5: su --id pid
+    identify eldest parent of pid
+    (call only from a root session)
+  armeabi
+  /proc/%d/ns/mnt
+  DIE: could not join mount namespace
+  DIE: could not open mount namespace
+  PATH
+  /su/bin:
+  :/su/xbin
+  :/system/xbin
+  LD_LIBRARY_PATH=/vendor/lib:/system/lib
+  HOME
+  SHELL
+  USER
+  LOGNAME
+  __system_property_get
+  2.82:SUPERSU
+  --version
+  --help
+  --id
+  %d %d %s
+  --self-test
+  version_code: %d
+  version_name: %s
+  version_arch: %s:%s
+  sdk: %d
+  daemon_sdk: %d
+  multiuser_sdk: %d
+  subin_sdk: %d
+  subin_used: %d
+  multiuser_userid: %d
+  multiuser_username: %s
+  selinux_present: %d
+  selinux_enforcing: %d
+  --install
+  --uninstall
+  --daemon
+  --reload
+  --mount-master
+  --command
+  %s %s
+  --shell
+  --context
+  -mns
+  --mount-namespace
+  --preserve-environment
+  --login
+  ADB shell [UID]
+  system_user_%d
+  app_user_%d
+  /system/bin/dumpstate
+  ADB shell
+  ro.secure
+  dev.bootcomplete
+  sys.boot_completed
+  /system/.pin
+  /system/xbin/.pin
+  /su/etc/pin
+  u:r:system:s0
+  u:r:system_server:s0
+  u:r:system_app:s0
+  u:r:priv_app:s0
+  u:r:platform_app:s0
+  GCC: (GNU) 4.8
+  GCC: (GNU) 4.9 20140827 (prerelease)
+  gold 1.11
+  aeabi
+  .shstrtab
+  .interp
+  .dynsym
+  .dynstr
+  .hash
+  .rel.dyn
+  .rel.plt
+  .text
+  .note.android.ident
+  .ARM.extab
+  .ARM.exidx
+  .rodata
+  .data.rel.ro.local
+  .fini_array
+  .init_array
+  .preinit_array
+  .dynamic
+  .got
+  .data
+  .bss
+  .comment
+  .note.gnu.gold-version
+  .ARM.attributes
+
+========================================
+ELF BINARY: suinit (/sbin/suinit)
+========================================
+SHA-256: 9bf3c22688e5a06a1b68e83e453da3d2a130c9830d6419196ec92ca0d31a5941  /home/kioda/auditoria-script-tvBox/binaries/suinit
+FILE: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+
+--- STRINGS RELEVANTES ---
+  td4 
+  F#hO
+  9F"h
+  1h"h
+  0h!h
+  7`#h
+  QF;F
+  UTFr
+  "#!`
+  I[hyD
+  !}D(
+  !}D(
+  ilJ 
+  >a~a
+  iR\"*
+  "yiQ@
+  @ya&
+  DHxD
+  a@K{D{a
+   hyi
+  4HxD
+  2HxD
+  -HxD
+  +K,J,I{DzD
+  'L|D 
+  !kFI
+  IxDyD
+  A#K$N{D~D
+  "IyD
+  MiFwY8F
+  HxD	
+  p!FF`
+  8FiF
+  M}Dkh
+  2|D 
+  h<L=I
+  )L)J*H
+  |D$hxD#h
+  ##a	#7
+  KzD{D
+  	# aBBPA@B
+  pG	 pGpGp
+  #lka
+  {B{A
+  "ca1
+  @lpG
+  jF+i
+  hF!l
+   iF"
+  bcc+h
+  CQ0+`
+  \XTP
+  )`H0
+  :ZrZh
+  :  R
+  $  R
+  J  R
+  P!#4
+  1F2F
+  !F*F
+   h)FA
+  J{Dp
+  }D%a
+  I Faa
+  2%x0=	-
+  9dBe
+   F)F2F;F
+   F)F;F
+  )K*J{Dp
+  !n"(F
+  Il"yD
+  )F Fn"
+  (F6h
+  D8F<I
+  3HxD
+   F1F
+  8F)F
+   F,F
+  .F9F
+  F{D(F
+  '@F)F
+  /0l+
+  /Ps-
+  F8F !RF[F
+  %JxDzD
+  JxDzD
+   !0!
+  @F)FRF
+   !0!
+  *FHFAF
+  0F)F
+   F1F
+   F)F@
+  	I	HyDxD
+  F!I{D
+  ,M_X
+  $4D`
+  ` F,`
+  )Fh`
+  $d?h
+  H!FxD
+  F)F"Fo
+  aXapG8
+  `!iL`"i
+  L-Y+hSa8
+  JyDzD
+  "b`{D
+  HyDxD
+  p?XhpG
+  pGZ&
+  p Fp
+   pG7
+  3F9FJF
+   h%`@B
+  #2F9F
+   h%`@B
+  FpGO
+   pG-
+   F*FO
+   F*F
+  v.@~
+   `(F
+  M}D(h
+  F(h!F
+  0F!F
+  J)F;FzD
+  2HxD
+  IyD	h
+  PROP
+  vOCE
+  '&@/@V
+  N~D3x
+  /` F
+  F!j1
+  NyD`bzD~D
+  (F"`c`9F2F5D
+  NFVF8F2F
+  2F(F
+  | FT5
+  OBK{D
+  @HAOxD
+  9HxD
+  QFT"
+  ;h=`
+  `i`)aia
+  `/ky`(k
+  !a`_
+  !ibicj!`
+   ``L
+  O}'k
+  'h8x
+  6"`H
+  Qxh)	
+  xQE@
+  6'`B
+  Qxl)
+  Sx^+
+  -h2F
+  "`PFc`
+  Fah"h
+  D'`t
+  !:F#F
+  "`XFc`
+  0	 h
+  ahWE
+  2#`b`
+  	WDUF!h
+  b`	x
+  /pMF
+  ZF h
+  "`PFc`ZF
+  ch_E
+  0"```
+  	WDUF
+  'fD/p
+  x9+	
+  ;chY
+  E^FH
+  -h(`
+  ,K{D
+   F)F
+  )F"#
+  $}D,`
+  /K/I{DyD
+  `-KO
+  ,@F)F
+  )F@F
+  N~D0h(
+  	M}D(`
+  ")F"#&F
+  &`<`
+  }D"aba F
+   F)F
+  A{DP
+  =x=-
+  EZFO
+  s F)F
+   F)F
+  W"7"
+  W!7!
+  J"#O
+  J""O
+  W"7"
+  PFYF
+   O@F
+  hci"
+  F)FxD"F
+  K{D[h
+  HhpG
+  	K{D
+  *F9F
+  &`(F
+  K{D	
+  JzD	
+  9FT 	
+  PF:F
+  +` F!
+  XF:F
+  0F,`
+  YF2F
+  aDdD
+  \)FdF
+  F&F+FW
+  }C)D,D
+  <1D&D
+  %Cxb+
+  xe((F
+  x0/:
+  ExX-
+  PF!h
+  rx0*
+  +x/+
+  0F[x
+  IPFyD
+  I@FyD
+  8x((
+  @{cY
+  F&FXO
+  F&F$
+  0FQF
+  (FIF
+  <aE!
+   F)F
+  {_J`KA
+  h#`Hh
+  3L `Ih!
+  &b`&`
+  0 ```
+  Cc`p
+   pG2+O
+  8FpC
+   ``UF
+  HF!hEE
+  #h F
+  CD#`
+  fh"h Fq
+  QKBS
+  ! ` aaa
+  %`%a`a1
+  LK{D
+  bh0h
+  1F:F`F
+  #k `
+  \bhS
+  c'F2`
+  B_'`c` F
+  l]{D
+  "AF4
+  #`#a
+  `{`!
+  +hTD%+
+  )+Dy`
+  	fFA
+  "xh*
+  +xl+
+  	&FXF*
+  EvF>
+  - dBe
+  *x%p$
+  }PzD
+  P$X#
+  }0xD
+  A!`"
+  #xN+
+  dB-#+#	,kp!
+  } xD
+  6PvF
+  THF}D
+  THF}D
+  EvF<
+   F)F
+  FX\eFtFT
+   F(F
+  {hQD
+  00"K
+  | {`
+  xh[KA
+  y`{D
+  h>K{D
+  `}hk
+  0IyD
+  `y`)
+  x+h\B
+  d4{D
+  `|h`
+  *z`{D
+  0}`X`
+  9Kzh{D
+  cicF
+  H!FxD
+  H|DxD
+  h|D F
+  h` F
+  K F{D
+   F)F
+  }D~D+h
+  N}D~D+h
+  N}D~D+h
+  D)FPF
+  PF)F
+  yMzY
+  nHxD
+  hHxD
+  ZFPh
+  |D x0
+  ^I0F{X
+  Y?X	
+  9h"iQ
+   FAFR
+   h!F2FKF
+   	IFW
+  PFIF
+  |D#x#
+  0FZ!BF
+  9h"iQ
+   FQFR
+  "`&iw
+  'alia
+   h!F2F
+  }D.h
+  1F:FxD
+  )F"FxD
+  )F"FxD
+  1F:FxD
+  RF(FIF
+  H1F:FxD
+  )F"FP
+  XF1F:F+F
+  *`&`t
+  H1F:FxD
+  RF(FIF
+  L|D}
+  H1F:FxD
+  RFIF(F
+  H1F:FxD
+  H)F"FxD
+  H)F"FxD
+  H1F:FxD
+  H)F"FxD
+  H)F"FxD
+  H1F:FxD
+  H)F"FxD
+  &yDT
+  H)F"FxD
+  xD1F
+  H)F"FxD
+  &yD)
+  H)F"FxD
+  xD1F
+  H1F:FxD
+  H)F"FxD
+  zH)F"FxD
+  p8p<
+  rH1F
+  IFZF(F
+  xD1F
+  aH1F:FxD
+  xD1F:F+F
+  ZF(FIF
+  xD1F
+  JH1F
+  $P(F8
+  A{L|O|D|M
+  D F}D
+  xN~D
+  kH)X
+  jHxD
+  hLiH|DxD
+  YHxD
+  WO~DyD
+  QHQIxDyD
+  ONOHPI~DxDyD4p
+  LIyD
+  HHxD
+  EIFJyDzD
+   FCL|D `CHxD
+  AOBH
+  ?HxD
+  ;HxD
+  :N~D1h
+  `7O8H
+  D8KxD:h
+  `4HxD
+  3I3NyD3M~D
+  `)HxD
+  G@LAO|D
+  ?N?H~DxD
+  !h0hO
+  ,`bh
+  ,@ch+
+  F`hE
+  ,He`xD
+  +K+M{D}D
+  (FahJ
+  HxD	
+  p)FF`
+  HFiF
+  I Fl`
+  HxD	
+  p!FE`
+  8FiF
+  HxD	
+  p!FG`
+  HFAF
+  `o/XL
+   @?h
+  /X3iW
+  `@F1FZF
+  	IFPF
+  HxDu
+  HxDh
+  PFIF
+  M}D*x
+  8FRF
+  sOiFU
+  p)FG`
+  @FiF
+  OHxD
+  LK{D
+  DIFPF
+  +HxDi
+  #HxDV
+  PFIF
+  	IFV
+  PFIF
+  <FlC
+   F9F
+  rX5X
+  MwY;h
+  	IFV
+  PFIF
+  3X<iS
+  @F9FZF
+  "6X F
+  !RF F
+  lJiFV
+  p1FG`
+  XFiF
+  #zi@
+  DIFPF
+  (HxDs
+   HxD`
+  PFIF
+   	IFW
+  p)FF`
+  PFIF
+  :X{Y
+  #FAF
+  AF#F
+  d~D5x5
+  AFHF
+  p)FF`
+  HFAF
+  I~X2h
+  0	IFPF
+  PFIF
+  ;X4iS
+  @F1FZF
+  IyD	xA
+  ";X F
+   FRF
+  p1FG`
+  XFAF
+  RK{D
+  OHxD
+  #zi@
+  DQFXF
+  /HxD
+  (HxD
+  XFQF
+  &IyD
+  !L/Y8h
+  p!FF`8h
+  XFJFCF
+  %IyD
+  MiFV
+  HxD	
+  p!FF`
+  XFiF
+  HFAF:F
+  'IyD
+  "L/Y8h
+  p!FF`8h
+  (F!F
+   pG8
+  H}DxD
+  (h D
+  $}D(h D
+  8@xD
+  $}D(h D
+  8@xD
+  H!FxD
+  -Y*x2
+  0`;h&
+  QF#X
+  ~HxD	
+  pA`YF
+  zHxD
+  [FXh
+  nH#X0F
+   h:iP
+  8FAFR
+  "`>it
+  8h9F2FKF
+   	IFT
+  IFXF
+  QFHh
+  0FZ!BF
+   h:iP
+  8FYFR
+  "`>it
+  8h9F2F
+  K~DV
+  HiF7X8F
+  HxD	
+  p!FE`
+  8FiF
+  ,}D7
+  DQF@F
+  HxD	
+  p!FG`
+  @FQF
+  K``{DmX?
+  YFHh
+  |H)X F
+  h2iP
+  0FIFR
+  0h1F"FKF
+  _IjX
+  	IFU
+  PFIF
+   FZ!BF
+  h2iP
+  0FQFR
+  "@4i`
+  0a~iq
+  yaQE
+  0h1F"F
+  D9FXF
+  p!FF`
+  XF9F
+  Kb`U
+  F|D	
+  PFAF
+  @F9FJF
+  I0FbX
+  0FZF
+  oIbX
+  AFPF
+  PFAF
+  ?H#X
+  D1`q`
+  DAFXF
+  p)FG`
+  XFAF
+  $,p0F
+  <7|D
+  DAFHF
+  HFAF
+  DAFXF
+  p1FG`
+  XFAF
+  9F#X
+  0	IFT
+  8hbX0D
+  9hAE
+  ,yh@
+  pA`QF
+  RFPh
+  H"X8F
+  @FIFR
+  AF:F[F
+  `XQF
+  ZFPh
+  8FZ!JF
+  @FYFR
+  AF:F
+  1PF`;hzh3D;`Q
+  `o(F
+  Z!2F!
+  {H'X8h
+   h2iP
+  0FQFR
+  0h1F*FKF	
+  P	IFT
+  PFIF
+  (FZ!BF
+   h2iP
+  0FYFR
+  "P5il
+  4a~ip
+  0h1F*F	
+  xDyD
+  xDyD
+  D2F9F
+  $@F4`
+  xDAF
+  BF8F1h
+  @F9F2F4`
+  BF8F1h
+  8FAF2F4`
+  :F@F1h
+  2F4`HF)F
+  (F1h
+  xD!F*F
+  xDyDZ
+   F)h
+  {D"F)FO
+  x	xD0
+  (F!h
+  D)F@F
+  <	xD
+  (F!h
+  @F1F*F,`
+  BF0F)h
+  D2FIF4`XF
+  ZFHF1h
+  DaF2F4`HF
+  JF`F1h
+  qF4`}D2F>
+  *F`F1h
+  w*F,`
+  D!F8F
+  ZF F)h
+  D2F9F
+  JF8F1h
+  D2F9F4`@F
+  BF8F1h
+  D2F9FF
+  aFxD
+  rF1h8F
+  2F9F4`
+  8F1h
+  V2F4`
+  d}D!F(F
+   F1h
+  x~D"F9FO
+  2F8F!h
+  8F)F
+  :F(F!h
+  )F8F"F
+  :F!h(F
+  \$;h
+  JF(F
+  HxD<
+  @F9h
+  D:FAF<`XF
+  HxDYF
+  D:FAF
+  %HF<`[
+  HxDIF
+  .aCF
+  @F9h
+  D:FAF<`XF
+  HxD{
+  @F9h
+  e:F<`HF)F
+  HxDs
+  .aCF
+  (F9h
+  !*F9`@F!F
+  &a;F
+   F)h
+  y{D:FAF
+  {HxD
+  @F9h
+  x{D:FIF=`
+  hHxD
+  CFHF9h
+  x{D:FIF=`
+  VHxD
+  CFHF9h
+  d:F@F!F
+  +F F9h
+  "F(F
+  CFHF!h*F
+  "FIF8F
+  CFHF!h:F
+  xDZF
+  FZF;F
+  HxD)F
+  HxD9F
+  3FHF
+  "~DYF
+   BF0F
+  pHxD1F
+  &IFBF
+  `{DBFIFw
+  FHxD
+  !BF1`8FIF
+  <HxDf
+  KFXF
+  zD3h
+  !xDx`
+  F;cxD
+  *(F!F
+  xDYF
+  4*(F
+  !FzD{k
+  XFQFJF3F
+  )(F!F
+  )(F!FzD
+  xD2F
+  )(F!FzD
+  zayb
+  )(F!F;lzD
+  |)(F!F{kzD
+  \)(F!F;lzD
+  #9bxD
+  8)(F!F
+  xD2F
+  )(F!FzD
+  xD2F
+  ((F!FzD
+  ((F!F;lzD
+  xD2F
+  ((F!FzD
+  xD2F
+  ((F!FzD
+  xD2F
+  `8{D
+  \8{D
+  X((F!FzD
+  xD2F
+  88{D
+  48{D
+  4((F!FzD
+  xD2F
+  ((F!FzD
+  xD2F
+  '(F!FzD
+  xDZF
+  '(F!F
+  xD2F
+  '(F!FzD
+  '(F!F{kzD
+  xD2F
+  d7{D
+  `7{D
+  \'(F!FzD
+  xDZF
+  @'(F!F
+  xD2F
+   7{D
+  '(F!FzD
+  xDZF
+  &(F!F
+  xD2F
+  &(F!FzD
+  xD2F
+  &(F!FzD
+  xD2F
+  &(F!FzD
+  zh!F
+  xDyDS
+  L&(F!F
+  @&(F!FzDSF
+  `FJF
+  &(F!F;lzD
+  `FJF
+  xDaF
+  %(F!F;lzD
+  D[FPF
+  k(F!F
+  x%(F!F;lzD
+  2FXF
+  !;`ZF
+  (F!F
+  ;h2F
+  (F!F
+  $(F!FzD
+  2FPF
+  $(F!F
+  YFxD
+  :n(F
+  zD!F
+  D!FzD
+  #PFF
+  HxD"
+  2FPF
+  HxDQF
+  J(F!F;`zD
+  :i;h
+  xDZF
+  xDIF
+  IxDyD
+  J(F!FzD
+  (F!F:o
+  xDIF
+  (F!FZF3F
+  (F!F2F
+  J(F!FzD
+  H!FxD
+  -Y*x2
+  HiF7X8F
+  HxD	
+  p!FE`
+  8FiF
+  h#h!
+  HFaF*F
+  1ipi
+  wi%X9h+h!
+  %+Fpi
+  1ipi
+  D F1F+F
+  $`d`
+  Xh``
+  oL`#h0F
+  FHL{DHO|D
+  =JzD
+  1F2N
+  1H~D"FxDO
+  	6hO
+  HxD	
+  p)FF`
+  @FiF
+  '/p F
+  `!hbhJ`$`d`
+  g F!i
+  "CF8F
+  Bw~D1h
+  8FIF
+  	'L[
+  p2h=h(
+  L|D"h
+  (~Dr
+  /HxD	
+  p!FG`
+  +HxD
+  @FiF
+  %&Je`zDV
+  D9F@F
+  p!FE`
+  @F9F
+  Jc`1XzD
+  !!p	
+  DYFPF
+  #!FC`
+  PFYF
+  p!FE`
+  HFiF
+  DAFPF
+  pA`9F
+  PFAF
+  DQFXF
+  QHxDx
+  p!FE`
+  LHxDm
+  XFQF
+  D9F@F
+  p!FE`
+  @F9F
+  '3Hg`
+  p!FE`
+  @FiF
+  Jc`1XzD
+  {D8L
+  `gxD
+  2MfY7h
+  0HxD
+  /K{D
+  `/J/NzD~D
+  *IyD
+  F;`}D&OT
+  <h,h
+  I}D|DyD*`
+  xDyD
+  I{DxDyD
+  $`d`
+  Aha`+h#`
+  `*hT`$h8F,`
+  #h+`(h
+  `%hbhj`$`d`
+  !)`0F
+  HiF7X8F
+  HxD	
+  p!FE`
+  8FiF
+  ~D F)F
+  8 F)F
+  #JzD
+  "JzDO
+  8dFUFT
+  ' F)F2F;F
+  8 F)F
+  02F	
+  P0-.
+  "F+F
+  O	X}D
+  Zx**
+  Yxl)
+  xi)'
+  #X9HBP
+   %tE
+   FD F(
+  V	Y4
+  M}D,h
+  (F1F
+  XiF#h	
+  $M}D.
+  )FT 
+  F~DXF
+  IFXF
+  T YF
+  XFQD
+   pGBTpG@\pG8
+  0+`8
+  ##`xDAha`
+  `	M}D*h
+  H~DxDt`
+  HyD+hxD/FA
+  nF(FO
+  (FAFjF
+   K!J{D!H-
+  I#hyD'FC
+  D0FO
+  0F !O
+  p0FAF
+  a^CT
+  CQ33
+  FIKaTNaa
+  QQTWY[^a
+  $~D(F
+  01F:FCF
+  AF8F
+  "`xD
+  j;DSE
+  ?aCoc
+  !FOF
+  KOFNF(
+  40 8p
+  (F=F
+  (FAF
+  8FQF
+  (F9F
+  (F9F
+  0FYF
+  EXFO
+  F9F(F
+  9F(F
+  F(Ff
+  {xUF
+  8x0(
+  (xP(
+  jx+*
+  {avh
+  XF)F
+  FXF)F
+  	XFIF
+  XF)F
+  6666666
+  "9F2`xD
+  @0`FH9F
+  EH9F
+  DxD4`
+  FdJ{D
+   FAF
+  ix )
+  x )(
+  )(.F
+   FAF
+  +TE@
+  X F'F
+  K{DS
+  J{DzD
+  Bh	*
+  	Kbh(F{DS
+  "@!`
+   pG  pG-
+  FpG  pG
+  	*FJE
+  (M}D,h
+  0F!F
+  0F.F
+   F!F
+  F `0
+  F#iO
+   F*a
+  4aqa 0?
+  Sx"F
+  ,F!i
+  ja F8
+  Bi*@
+   P' a7`:
+   FIF
+   FKi
+  "2`}
+  x0(&
+  _xX/
+  Jx0*
+  3x/+
+  :F0+
+  2F[x
+  cx++
+  HFyD
+  @FyD
+  x(-@
+  @FQF8
+  OF	,
+  3D5+)X 
+  VeDF
+  [uDK
+  &afa
+  KF+F
+  !! &
+  a!$Va
+  @D@h
+  @D@h
+  $P#<a
+  a1FQ
+  -i6i
+  ,F!i
+  _a F
+  F1FRF
+   i"h
+   abDPD
+  1FRF
+  !h FQD!`
+  *F1F
+  `(D `
+  SF+F!i
+  Bbi5
+  DKE2
+  JF1F
+  "h FJD"`
+  RhgD"
+  	hMh
+  hMh%
+  ;CK`.
+  Y`oh
+  y`oh'
+  i`]hE
+  _`Mh
+  M`_hG
+  ``h 
+  'g`3FV
+  ?hCDC
+  BOh,
+  h7`S
+  ~`Nh
+  l&`C
+  `'h}h%
+  !`~h
+  hfh&
+  !CA`
+  &h"Fwh
+  l`%hlh$
+  :Cj`
+  hwh'
+  /Cg`
+  h<heh
+  )hLh
+  h}h%
+  h!hNh&
+  %`Lh
+  M`|h
+  h!hMh%
+   hBh
+  z`ghG
+  a`Dh$
+  h2hPh 
+  7`Qh
+  h]h%
+  h1hLh$
+  7`Mh
+  8F!F
+  %F$h
+  %F(F
+  0F9F
+  9hPD
+  h~h&
+  3C{`.
+  9iZh
+  _`Jh
+  w`Jh"
+  N`YhA
+  Z`~h;`&
+  y`ZhB
+  ^`;F
+  @bh"
+  (FQF
+   XD"
+  #s`;FW
+  hsDC
+  Bih 
+  jhOh
+  J`ih!
+  hnh&
+  h~h&
+  /Cw`
+  hNh&
+  hph 
+  "Cr`
+  hxh 
+  *CZ`
+  h*hPh
+  hHh 
+  h>huh%
+  :`ph
+  r`Hh
+  >CN`&
+  hPh 
+  h`WhG
+  V`Lh$
+  hPh 
+  hZh"
+  h:hVh&
+  =`Ph
+  0F9F
+  {hRDB
+  hPD'
+  :iZ`
+  h{`&
+  (FQF
+   XD"
+  #s`;FW
+  `yhA
+  `s`x
+  `w`=
+  IeX(h#
+  X"h!
+  	I[X
+  X"h!
+  	I[X
+  (`n@@
+  DpG-
+  D%hZ
+  Fb`ah
+  F5FOF
+  fh8F%a
+   F)F
+  HiF7X8F
+  HxD	
+  p!FE`
+  8FiF
+  0h"F
+   F1F
+  aa"JY
+  ca:h
+  =K'F
+  @FYF*hSF
+  +i,H
+  D,J+a%`
+  `'aga
+  h8h@
+  	06X(F
+   F1F
+  aa#JY
+  ca:h
+  F7K-
+  O{D6O
+  @F!F
+  F3N3J~D3O
+  G>jO
+  !F*F3F
+  WD/D-
+  9b j
+  F/NO
+  .K~D.O
+  !F3F
+  wD=D
+  "FCF
+  6(F1F
+  6(F1F
+  0F)F:F
+  	K*FX
+  80FAF
+  0FQF
+  `+hjhZ`-`m`
+  ! FBF
+  cFWD2F
+  CF)F=N
+    F>h
+  /M@F
+  "h8F^Y1h
+   i2h
+  &M}D+h
+  &zDO
+  b!FAD
+  *JzD
+  "0Fr`
+  0FQF
+  RF3F
+  PF1F
+  PF9F
+  h@F"F)F
+  :@F*FQF
+  @F)F"F
+  @PD=i
+  1i0m9D1a8D0e
+  3m1i
+  #0a@F
+  27eC
+  43iE
+  XF9F2h
+  F}DO
+  PF1F
+  F`"3M
+  K}DU
+   FYF
+  0FJF
+  0FIF
+  0FQFBF
+  0FQFBF
+  DSD3c
+  E3oXF
+  E4o!D
+  8FAFRF
+  " FYF
+   FYF
+  " F9F
+   FaF*F[F
+  )F2F
+  ##k3D#c
+  #!oPF9D
+  #$o'D
+  J(FX
+  FiOR
+  PFAF
+  D9h%
+  CIyDQ
+  ziA	
+  ! P@L
+   F)F
+  HF1F*F#F
+  (F!F
+  FyDO
+  %X(F
+  8F!FBF3F
+  M|DdY%h
+  F H\
+  FZ!:F
+  :D0c0F
+  (F9F2F
+  !FBF;F
+  24kC
+  #3kSDO
+   	3cID
+  #5oMD
+  #6oND
+  0FrF
+  C+DsD
+  j%jA
+  #2oc
+  E6o3D
+  (HxDP
+  `5xU
+  N~DV
+  8	IFU
+  SFXh
+  bFHFQF
+  (	IFU
+  pA`QF
+  SFXh
+  oX;x3
+   F1F
+  !F:F3F
+  :F3F
+  HF@h
+  bFHFQF
+   F1F
+  QF2F
+  !F*X
+   F1F
+  QF2F
+  QFHh
+  8FIFRF
+  N F~D
+  9FPF
+  pIFB`
+  PF9F
+  KFXh
+  !F:F3F
+  :F3F
+  pQFG`
+  !FHF
+  8FIFRF
+  bIkX
+   F1F	
+  iN F~D
+  #~iq
+  YF2F
+  9L+Y
+  pQFG`
+  HF!F
+  PF@h
+   F1F
+  YF2F
+  OZE(
+  	IF+X
+  YFHh
+  (h2iP
+  0F9FR
+  7iri
+  0h1F
+  HF9F
+  ZFPh
+  Z!BF
+  	|mX
+  (h2iP
+  0FIFR
+  3a~iu
+  }aEE
+  0h1F
+  D#`,h
+   "D*`=h1i)D9`
+  #2m<l
+  "D:d
+  #SOX
+  p"h 1;h
+  #3oQ
+  #2oQ
+  i+DA
+  5H4`6@F
+  |9DD
+  `C`~D9H:J1X
+  3O)F
+  `8h3h
+  ?h)F6h
+  p`CD
+  ` FO
+  #)F@
+   F ")F@
+  )F( 
+  8#)F
+  @")F
+  )FP 
+  p#)F
+  `s)F
+  `c)F
+  09h|DZ
+  H$X#h
+  H~DxD4h%D5`
+  M}D(F
+  "h(F
+  L|D F
+  K F{D
+  H{DxD
+   hFB
+  F>HxD
+  8F!F
+  1F8F4F
+  &HF!F
+  8F)F
+  HF)F
+  8F!F
+   0`a
+  K F{D
+   F)F2F
+  IxDyD
+  (F!F
+  IxDyD*F#F
+  N}D~D(F
+  K F{D
+  8F!F
+  BK{D
+  }D(F
+  CixB
+  pHF!F
+  PF!F
+  HF!F
+  PF!F
+  (F1F
+  `aHF
+  !FPF
+  9F2F
+  yD2F+F
+  0F)F"F
+  0F)F"F
+  0F)F"F
+  X"hR
+  0F)F
+  `zD$
+  L|D F
+  K F{D
+  L|D F
+  K F{D
+  1HxD
+  0K{D
+  .HxD
+  )I*J
+  @FYF
+   F7xO
+  	IyD
+  KzDyD{D
+  1F"#
+  K)F"F
+  ,F F
+  AMVSd
+  @"1F
+  H1FxD
+  !(F9p
+  HxDpG
+  K	H	I{DYX
+  HxDpG
+  HxDpG
+  K	H	I{DYX
+  HxDpG
+  Kh"~D
+  (F#a!b
+  mhU`
+  #nJX
+  8<H4T
+  P2hxD
+  hzD?i
+  )`4F
+  hzD$i
+  0FiF
+  hzD$i
+  0FiF
+  hzD$i
+  0FiF
+  hzD?i
+  )`4F
+  hH#zD$i
+  0FiF
+  hH#zD$i
+  0FiF
+  hH#zD$i
+  0FiF
+  hH#zD$i
+  0FiF
+  hH#zD$i
+  0FiF
+  hH#zD$i
+  0FiF
+  hH#zD$i
+  0FiF
+  hzD?i
+  )`4F
+  0FiF
+  0FiF
+  0FiF
+  (`4F
+  0FiF
+  0FiF
+  0FiF
+  (`4F
+  0FiF
+  0FiF
+  0FiF
+  (`4F
+  0FiF
+  0FiF
+  0FiF
+  (`4F
+  (`4F
+  (`4F
+  (`4F
+  (`4F
+  )`4F
+  0FiF
+  )`4F
+  )`4F
+  HxDAh
+  )`4F
+  )`4F
+  )`4F
+  J3hzD
+  !`,F
+  F H MxD
+  X+hS
+  F H MxD
+  X+hS
+  /NxD~D
+  $HxD
+  X3hS
+  (	IFT
+  A`AF(h
+  PFIF
+  8	`XIF
+  pA`YF(h
+  cMeY(h
+  )F"X
+  WHxDe
+  pA`YF
+  RHxDZ
+  ZFPh
+  #8Jk``X
+  QF%X(F
+  k``XT
+  1F F
+  !"FMh
+  .! F
+  1F F
+  bF F
+  %JiFT
+  HFiF
+  0FiF
+  $JiFT
+  HFiF
+  0FiF
+  %JiFT
+  HFiF
+  0FiF
+  $JiFT
+  HFiF
+  0FiF
+  (FnF
+  jhFX
+  +HxD
+  p)FF`8h
+  'HxD
+  HFAF
+  iFHF
+  p)FF`8h
+  HFiF
+  K~DV
+  HiF7X8F
+  HxD	
+  p!FE`
+  8FiF
+  \HxD
+  'pyhJ
+  0JOXhE
+  HF]`
+  AFHF
+  ;HxD	
+  p)FG`
+  7HxD
+  HFAF
+  8F1F
+  	IFT
+  !HxD
+  p)FG`
+  XFIF
+  $,pO
+  X7h	
+  AFPF
+  PFAF
+  @F9FJF
+  (FbX
+  (FRF
+  PFAF
+  6hyD
+  IFPF
+  PFIF
+  @F9FZF
+  0FbX
+  0FRF
+  8	IFT
+  PFIF
+  `X9F
+  ZFPh
+  ydX	
+   h2iP
+  0FAFR
+  0h1F*FKF
+  h	IFT
+  PFIF
+  (FZ!BF
+   h2iP
+  0FQFR
+  "P5il
+  4a~ip
+  0h1F*F
+  h(FyD
+  !BFXF
+  `XQF
+  ZFPh
+  @FIFR
+  AF2F
+  `XQF
+  ZFPh
+  0FZ!JF
+  @FYFR
+  AF2F
+  	IF#X
+  pA`YF
+  [FXh
+  +H#X(F
+   h2iP
+  0FAFR
+  0h1F*FSF
+  	cXIF
+  YFHh
+  (FZ!BF
+   h2iP
+  0FQFR
+  "P5il
+  0h1F*F
+  YF:F
+  :FXFIF
+  (00F
+  (`#X
+  	IFT
+  pYFB`
+  [FXh
+  dH#X8F
+   h2iP
+  0FAFR
+  0h1F:FSF
+  ZFPh
+  8FZ!BF
+  #h2iS
+  0FQFR
+  "p7i|
+  0h1F:F
+  %K%L{D|D
+  f!X"L
+  h|DS
+  j)FS
+  %	HxD
+   F*F3F
+  Dh9F0FV
+  XiIi
+  8F!F
+  %F$h
+  %F(F
+  0F9F
+  ;hRDB
+  hPD'
+  h~h&
+  3C{`.
+  Zh9i
+  _`Jh
+  w`Jh"
+  N`YhA
+  Z`~h;`&
+  y`ZhB
+  ^`;F
+  @bh"
+  (FQF
+   XD"
+  #s`;FW
+  Q`(h
+  `ih!
+  P`ih!
+  J`^h&
+  `9hA
+  ]`;`
+  0hDh
+  ^`5hoh'
+  0`lh
+  Cn`_h
+  C]`%
+  Y`3`
+  o`0hAh!
+  5`Gh
+  CF`]h
+  8CX` 
+  _`3`x
+  ^`Mh
+  )hHh
+  h~h&
+  hMh%
+  K`}h
+  Cy`!
+  }`7`=
+  huh%
+  ]`OhG
+  L`Fh&
+  hph 
+  #Cs`
+  hqh!
+  .CF`
+  hHiQi
+  LiBi
+  Mi\i
+  ViOi
+   FDF
+  F3FV
+  =IlX h
+  1HxD
+  +HxD
+  RFQh
+  FHF9FZF
+  H1FxD
+  X)x9
+  ` F&
+  AF:F
+  H~D7X<h
+  MvY7h9D
+  D0F}D
+  F8F!F
+  0FZ!:F
+  RFCF
+  HF9F
+  RFCF
+  ZF:F
+  O1F(F
+  yHxD	
+  pYFB`
+  tHxD
+  [FXh
+  hH#X0F
+   h:iP
+  8FAFR
+  "`>it
+  8h9F2FKF
+  CI`X
+   	IF
+  ZFPh
+  0FZ!BF
+  #h:iS
+  8FQFR
+  "`>it
+  8h9F2F
+  |D F
+  J{Dp
+  &D0F
+   pGG
+  pGxG
+  CcFRB
+  CRBcF
+  `K`)
+  `K`9
+  eF}C
+  wCcFcCfC
+  JCCC-
+  gFdE^
+  Af@2
+  CRBcF
+  Android
+  /dev/kmsg
+  /dev/__kmsg__
+  %s/%s
+  /boot
+  /boot/%s
+  /boot/init
+  /init_twrp
+  /init
+  --second-stage
+  /proc/cmdline
+  /proc
+  androidboot.mode=recovery
+  proc
+  hidepid=2,gid=3009
+  <unknown>
+  /dev/socket/logdw
+  /dev/stderr
+  (null)
+  bionic/libc/bionic/libc_logging.cpp
+  conversion specifier unsupported
+  sign/precision unsupported
+  FORTIFY_SOURCE: %s. Calling abort().
+  pthread_create sched_setscheduler call failed: %s
+  pthread_create failed: couldn't allocate thread
+  pthread_create failed: couldn't allocate %zd-byte stack: %s
+  pthread_create failed: couldn't mprotect PROT_NONE %zd-byte stack guard region: %s
+  pthread_create failed: clone failed: %s
+  Unknown error %d
+  Unknown
+  Real-time
+  %s signal %d
+  Hangup
+  Interrupt
+  Quit
+  Illegal instruction
+  Trap
+  Aborted
+  Floating point exception
+  Killed
+  Bus error
+  Segmentation fault
+  Broken pipe
+  Alarm clock
+  Terminated
+  User signal 1
+  User signal 2
+  Child exited
+  Power failure
+  Window size changed
+  Urgent I/O condition
+  I/O possible
+  Stopped (signal)
+  Stopped
+  Continue
+  Stopped (tty input)
+  Stopped (tty output)
+  Virtual timer expired
+  Profiling timer expired
+  CPU time limit exceeded
+  File size limit exceeded
+  Stack fault
+  Bad system call
+  Success
+  Operation not permitted
+  No such file or directory
+  No such process
+  Interrupted system call
+  I/O error
+  No such device or address
+  Argument list too long
+  Exec format error
+  Bad file number
+  No child processes
+  Try again
+  Out of memory
+  Permission denied
+  Bad address
+  Block device required
+  Device or resource busy
+  File exists
+  Cross-device link
+  No such device
+  Not a directory
+  Is a directory
+  Invalid argument
+  File table overflow
+  Too many open files
+  Not a typewriter
+  Text file busy
+  File too large
+  No space left on device
+  Illegal seek
+  Read-only file system
+  Too many links
+  Math argument out of domain of func
+  Math result not representable
+  Resource deadlock would occur
+  File name too long
+  No record locks available
+  Function not implemented
+  Directory not empty
+  Too many symbolic links encountered
+  No message of desired type
+  Identifier removed
+  Channel number out of range
+  Level 2 not synchronized
+  Level 3 halted
+  Level 3 reset
+  Link number out of range
+  Protocol driver not attached
+  No CSI structure available
+  Level 2 halted
+  Invalid exchange
+  Invalid request descriptor
+  Exchange full
+  No anode
+  Invalid request code
+  Invalid slot
+  Bad font file format
+  Device not a stream
+  No data available
+  Timer expired
+  Out of streams resources
+  Machine is not on the network
+  Package not installed
+  Object is remote
+  Link has been severed
+  Advertise error
+  Srmount error
+  Communication error on send
+  Protocol error
+  Multihop attempted
+  RFS specific error
+  Not a data message
+  Value too large for defined data type
+  Name not unique on network
+  File descriptor in bad state
+  Remote address changed
+  Can not access a needed shared library
+  Accessing a corrupted shared library
+  .lib section in a.out corrupted
+  Attempting to link in too many shared libraries
+  Cannot exec a shared library directly
+  Illegal byte sequence
+  Interrupted system call should be restarted
+  Streams pipe error
+  Too many users
+  Socket operation on non-socket
+  Destination address required
+  Message too long
+  Protocol wrong type for socket
+  Protocol not available
+  Protocol not supported
+  Socket type not supported
+  Operation not supported on transport endpoint
+  Protocol family not supported
+  Address family not supported by protocol
+  Address already in use
+  Cannot assign requested address
+  Network is down
+  Network is unreachable
+  Network dropped connection because of reset
+  Software caused connection abort
+  Connection reset by peer
+  No buffer space available
+  Transport endpoint is already connected
+  Transport endpoint is not connected
+  Cannot send after transport endpoint shutdown
+  Too many references: cannot splice
+  Connection timed out
+  Connection refused
+  Host is down
+  No route to host
+  Operation already in progress
+  Operation now in progress
+  Stale NFS file handle
+  Structure needs cleaning
+  Not a XENIX named type file
+  No XENIX semaphores available
+  Is a named type file
+  Remote I/O error
+  Quota exceeded
+  No medium found
+  Wrong medium type
+  Operation Canceled
+  Required key not available
+  Key has expired
+  Key has been revoked
+  Key was rejected by service
+  Owner died
+  State not recoverable
+  ANDROID_PROPERTY_WORKSPACE
+  stack corruption detected
+  strlen: prevented read past end of buffer
+  %s:%d: assertion "%s" failed
+  %s:%d: %s: assertion "%s" failed
+  longjmp botch
+  inity
+  <jemalloc>: Error setting TSD for arenas
+  <jemalloc>: %s: %.*s:%.*s
+  <jemalloc>: Error allocating TSD for thread_allocated
+  <jemalloc>: Error setting TSD for thread_allocated
+  <jemalloc>: Error allocating TSD for tcache
+  <jemalloc>: Error setting TSD for tcache
+  abort
+  true
+  false
+  Invalid conf value
+  lg_chunk
+  Error setting dss
+  narenas
+  Out-of-range conf value
+  lg_dirty_mult
+  stats_print
+  junk
+  quarantine
+  redzone
+  zero
+  tcache
+  lg_tcache_max
+  Invalid conf pair
+  <jemalloc>: Conf string ends with key
+  <jemalloc>: Malformed conf string
+  <jemalloc>: Conf string ends with comma
+  <jemalloc>: Error initializing arena
+  <jemalloc>: Error in atexit()
+  <jemalloc>: Error in pthread_atfork()
+  <jemalloc>: Reducing narenas to limit (%d)
+  <jemalloc>: Error allocating TSD for arenas
+  <jemalloc>: Error allocating TSD for quarantine
+  <jemalloc>: Error setting TSD for quarantine
+  <jemalloc>: Error re-initializing mutex in child
+  arenas.page
+  <jemalloc>: Failure in xmallctl("%s", ...)
+  stats.arenas.0.nthreads
+  <jemalloc>: Failure in xmallctlnametomib("%s", ...)
+  <jemalloc>: Failure in xmallctlbymib()
+  assigned threads: %u
+  stats.arenas.0.dss
+  dss allocation precedence: %s
+  stats.arenas.0.pactive
+  stats.arenas.0.pdirty
+  stats.arenas.0.npurge
+  stats.arenas.0.nmadvise
+  stats.arenas.0.purged
+  dirty pages: %zu:%zu active:dirty, %llu sweep%s, %llu madvise%s, %llu purged
+              allocated      nmalloc      ndalloc    nrequests
+  stats.arenas.0.small.allocated
+  stats.arenas.0.small.nmalloc
+  stats.arenas.0.small.ndalloc
+  stats.arenas.0.small.nrequests
+  small:   %12zu %12llu %12llu %12llu
+  stats.arenas.0.large.allocated
+  stats.arenas.0.large.nmalloc
+  stats.arenas.0.large.ndalloc
+  stats.arenas.0.large.nrequests
+  large:   %12zu %12llu %12llu %12llu
+  stats.arenas.0.huge.allocated
+  stats.arenas.0.huge.nmalloc
+  stats.arenas.0.huge.ndalloc
+  stats.arenas.0.huge.nrequests
+  huge:    %12zu %12llu %12llu %12llu
+  total:   %12zu %12llu %12llu %12llu
+  active:  %12zu
+  stats.arenas.0.mapped
+  mapped:  %12zu
+  config.tcache
+  bins:     bin  size regs pgs    allocated      nmalloc      ndalloc    nrequests       nfills     nflushes      newruns       reruns      curruns
+  bins:     bin  size regs pgs    allocated      nmalloc      ndalloc      newruns       reruns      curruns
+  arenas.nbins
+  stats.arenas.0.bins.0.nruns
+  [%u..%u]
+  [%u]
+  arenas.bin.0.size
+  arenas.bin.0.nregs
+  arenas.bin.0.run_size
+  stats.arenas.0.bins.0.allocated
+  stats.arenas.0.bins.0.nmalloc
+  stats.arenas.0.bins.0.ndalloc
+  stats.arenas.0.bins.0.nrequests
+  stats.arenas.0.bins.0.nfills
+  stats.arenas.0.bins.0.nflushes
+  stats.arenas.0.bins.0.nreruns
+  stats.arenas.0.bins.0.curruns
+  %13u %5zu %4u %3zu %12zu %12llu %12llu %12llu %12llu %12llu %12llu %12llu %12zu
+  %13u %5zu %4u %3zu %12zu %12llu %12llu %12llu %12llu %12zu
+  large:   size pages      nmalloc      ndalloc    nrequests      curruns
+  arenas.nlruns
+  stats.arenas.0.lruns.0.nmalloc
+  stats.arenas.0.lruns.0.ndalloc
+  stats.arenas.0.lruns.0.nrequests
+  arenas.lrun.0.size
+  stats.arenas.0.lruns.0.curruns
+  [%zu]
+  %13zu %5zu %12llu %12llu %12llu %12zu
+  enabled
+  disabled
+  epoch
+  <jemalloc>: Memory allocation failure in mallctl("epoch", ...)
+  <jemalloc>: Failure in mallctl("epoch", ...)
+  ___ Begin jemalloc statistics ___
+  version
+  Version: %s
+  config.debug
+  Assertions %s
+  Run-time option settings:
+  opt.abort
+    opt.abort: %s
+  opt.lg_chunk
+    opt.lg_chunk: %zu
+  opt.dss
+    opt.dss: "%s"
+  opt.narenas
+    opt.narenas: %zu
+  opt.lg_dirty_mult
+    opt.lg_dirty_mult: %zd
+  opt.stats_print
+    opt.stats_print: %s
+  opt.junk
+    opt.junk: %s
+  opt.quarantine
+    opt.quarantine: %zu
+  opt.redzone
+    opt.redzone: %s
+  opt.zero
+    opt.zero: %s
+  opt.utrace
+    opt.utrace: %s
+  opt.valgrind
+    opt.valgrind: %s
+  opt.xmalloc
+    opt.xmalloc: %s
+  opt.tcache
+    opt.tcache: %s
+  opt.lg_tcache_max
+    opt.lg_tcache_max: %zd
+  opt.prof
+    opt.prof: %s
+  opt.prof_prefix
+    opt.prof_prefix: "%s"
+  opt.prof_active
+    opt.prof_active: %s
+  opt.lg_prof_sample
+    opt.lg_prof_sample: %zd
+  opt.prof_accum
+    opt.prof_accum: %s
+  opt.lg_prof_interval
+    opt.lg_prof_interval: %zd
+  opt.prof_gdump
+    opt.prof_gdump: %s
+  opt.prof_final
+    opt.prof_final: %s
+  opt.prof_leak
+    opt.prof_leak: %s
+  CPUs: %u
+  arenas.narenas
+  Arenas: %u
+  Pointer size: %zu
+  arenas.quantum
+  Quantum size: %zu
+  Page size: %zu
+  Min active:dirty page ratio per arena: %u:1
+  Min active:dirty page ratio per arena: N/A
+  arenas.tcache_max
+  Maximum thread-cached size class: %zu
+  Average profile sample interval: %llu (2^%zu)
+  Average profile dump interval: %llu (2^%zd)
+  Average profile dump interval: N/A
+  Chunk size: %zu (2^%zu)
+  stats.cactive
+  stats.allocated
+  stats.active
+  stats.mapped
+  Allocated: %zu, active: %zu, mapped: %zu
+  Current active ceiling: %zu
+  stats.chunks.total
+  stats.chunks.high
+  stats.chunks.current
+  chunks: nchunks   highchunks    curchunks
+    %13llu %12zu %12zu
+  arenas.initialized
+  Merged arenas stats:
+  arenas[%u]:
+  --- End jemalloc statistics ---
+  <jemalloc>: Error allocating TSD for tcache_enabled
+  <jemalloc>: Error setting TSD for tcache_enabled
+  0123456789ABCDEF
+  0123456789abcdef
+  0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+  0123456789abcdefghijklmnopqrstuvwxyz
+  0123456789
+  strchr: prevented read past end of buffer
+  /proc/meminfo
+  /proc/stat
+  cpu%u%c
+  /sys/devices/system/cpu
+  MemTotal: %ld kB
+  MemFree: %ld kB
+  Infinity
+  abcdef
+  ABCDEF
+  <jemalloc>: Corrupt redzone %zu byte%s %s %p (size %zu), byte=%#x
+  before
+  after
+  secondary
+  primary
+  <jemalloc>: Error in munmap(): %s
+  thread
+  config
+  arena
+  arenas
+  prof
+  stats
+  cactive
+  allocated
+  active
+  mapped
+  chunks
+  nthreads
+  pactive
+  pdirty
+  npurge
+  nmadvise
+  purged
+  small
+  large
+  huge
+  bins
+  lruns
+  nmalloc
+  ndalloc
+  nrequests
+  curruns
+  nfills
+  nflushes
+  nruns
+  nreruns
+  current
+  total
+  high
+  dump
+  interval
+  initialized
+  quantum
+  page
+  tcache_max
+  nbins
+  nhbins
+  nlruns
+  lrun
+  extend
+  size
+  nregs
+  run_size
+  purge
+  chunk
+  alloc
+  dalloc
+  utrace
+  xmalloc
+  prof_prefix
+  prof_active
+  lg_prof_sample
+  lg_prof_interval
+  prof_gdump
+  prof_final
+  prof_leak
+  prof_accum
+  debug
+  fill
+  lazy_lock
+  munmap
+  prof_libgcc
+  prof_libunwind
+  valgrind
+  allocatedp
+  deallocated
+  deallocatedp
+  flush
+  [%Co
+  0123456789abcdef0123456789ABCDEF
+  vH7B
+  W4vC
+  [%Co
+  O8M2
+           (((((                  
+  AAAAAA
+  BBBBBB
+  memcpy: prevented write past end of buffer
+  memset: prevented write past end of buffer
+  /dev/__properties__
+  0000000000000000                
+  GCC: (GNU) 4.8
+  GCC: (GNU) 4.9 20140827 (prerelease)
+  clang version 3.5 
+  gold 1.11
+  aeabi
+  ARM v7
+  .shstrtab
+  .text
+  .note.android.ident
+  .ARM.exidx
+  .rodata
+  .ARM.extab
+  .eh_frame
+  .eh_frame_hdr
+  .data.rel.ro.local
+  .fini_array
+  .init_array
+  .preinit_array
+  .got
+  .data
+  .bss
+  .comment
+  .note.gnu.gold-version
+  .ARM.attributes
+
+========================================
+ELF BINARY: usbbt_native (/system/bin/usbbt_native)
+========================================
+SHA-256: 0ce2105d6b760d441af20b7c5c898040fdd08e6852b88037ee6e1d1f750d35f2  /home/kioda/auditoria-script-tvBox/binaries/usbbt_native
+FILE: ELF 32-bit LSB shared object, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /system/bin/linker, for Android 24, BuildID[md5/uuid]=285fe84bab9e33289d8f2b46b2d94c86, stripped
+
+--- STRINGS RELEVANTES ---
+  /system/bin/linker
+  Android
+  __libc_init
+  LIBC
+  __gnu_Unwind_Find_exidx
+  LIBC_N
+  dladdr
+  __cxa_atexit
+  __register_atfork
+  __aeabi_memclr8
+  __android_log_print
+  __snprintf_chk
+  __stack_chk_fail
+  __stack_chk_guard
+  chown
+  property_get
+  property_set
+  setegid
+  __aeabi_memclr4
+  __android_log_vprint
+  __read_chk
+  __write_chk
+  atoi
+  free
+  getenv
+  malloc
+  pthread_mutex_init
+  pthread_mutex_lock
+  pthread_mutex_unlock
+  strtol
+  realloc
+  strncmp
+  uname
+  stat
+  readdir
+  strcpy
+  stderr
+  lseek
+  ioctl
+  __aeabi_memcpy
+  opendir
+  open
+  __errno
+  __poll_chk
+  calloc
+  close
+  abort
+  pipe
+  pthread_cond_broadcast
+  pthread_cond_init
+  pthread_cond_timedwait
+  pthread_cond_wait
+  pthread_mutex_destroy
+  pthread_mutex_trylock
+  __aeabi_memmove
+  __strchr_chk
+  __strlen_chk
+  clock_gettime
+  closedir
+  fclose
+  fopen
+  fprintf
+  fscanf
+  _edata
+  _end
+  __bss_start
+  \!xD
+  bH!FbJxDzD
+  D FAF
+   IJIKyDzD{D
+  GIHJHKyDzD{D
+  @I@JAKyDzD{D
+  Q}D(F
+  S%JyDzD
+  JyDzD
+  IxDyD
+  HzD{DxD
+  KyDzD
+  g`(F
+  0h`(F
+  0 ` F
+  `i*Fha
+  `0Fba
+  /F8F
+  IxDyD
+  yD	h	h
+  `zDO
+   FiF
+  0x`8F
+  0x`8F
+   Fe`
+  {pG@{pGp
+  F-HxD
+   Fd!
+   ``#HxD
+  (yD	h
+  `	HxD
+  zDyD
+  yD	h	h
+  0FJF
+  yD	h	h
+  `A` Fqc
+  2m(FAF
+  H`0F
+  )m F
+  F,FT
+  A`8F
+  bhihc
+  =H>LxD|D
+  :L|D F
+  7H8IxDyD
+  `0HxD
+   I(F
+  HiFxD
+  JyDzD
+  yD	h	h
+  IxDyD
+  XFIF
+  XF:!O
+  I FyD
+  `8F|IyD
+  mHxD
+  mI FyD
+  8FyD
+  ?HxD
+  H!hxD
+  (IxD(JyD
+  h0` i	h
+  I2hyD	h	h
+  	IxDyD
+  IyD	h
+  0F!F
+  5F(Fp
+  FMIxD
+  DI(FyD
+  0FJF
+  (FAF
+  3"FO
+  F!JyD
+  8F1F*F#F
+  F	IyD	h
+  F#HjFxD
+   i)F
+  yD	h	h
+  yD	h	h
+  yD	h	h
+  jF@i
+  yD	h	h
+  jF@i
+  yD	h	h
+  jF@i
+  jF@i
+  F	HxD
+  '(Fob
+  !*F@
+  (F9F
+  K	, 
+  (F9F
+  % AF
+  #K`E
+  ,6(h
+  BfF@
+  UF8F
+  si0l
+  Dpa`h
+    `PF
+  	paH
+  0F!F
+    `PF
+  0FIF
+  ,!HC
+  pG4A
+  (F!F
+  qHxD
+  xDbJ
+  UHxD
+  @F9F
+  PFAF2F
+   pPF
+  IyD	h
+  nF(F1F
+  (F:F3F
+  zD{D
+  0*hyD	h	h
+  0F)FBFO
+  $@E8
+  +FyD
+  yD	h	h
+   F9F
+  Pp0l@D
+  `:HxD
+  +FSE
+  h(DO
+  'piE
+  5,4UE
+  & hP
+  " Fw
+   FBF
+  E[--
+   " F
+  yD	h	h
+  (F1F
+  (F"F
+  q(F"F
+  JxDzD
+  2h F)F
+  JxDzD
+  )F@h
+   @F"F
+  yD	h	h
+  JxDzD
+  yD	h	h
+  `)F0F
+  iF0F
+  0F9F
+  "i(FO
+  (FIF
+  d*F	
+   e8F
+  JxDzD
+   a(F
+  (F!F
+  JxDzD
+  aFrF
+  IyD	h	h
+  	h	h
+  IyD	h	h
+  	h	h
+  HzDxD
+  0h)F
+   h)F2F
+  %Bk F
+  G(Fp
+  FBi0F
+  0h)F
+  FBi8F
+  8h1F*FCF
+  hJj!F
+  KxDyD{D
+  qDPp
+  KxDyD{D
+  "p(O
+  KxDyD{D
+  qEPO
+  qEPO
+  qEPO
+  KxDyD{D
+  !Bk F
+  FyD	h	h
+  0F)F
+  yD	h	h
+  jF F)F
+  IxDyD
+  #rFcF
+  bh^h
+  (F)FP
+  +N~D
+  )N~D
+  KxDyD{D
+  KxDyD{D
+  xDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG
+  HxDpG	HxDpG
+  HxDpG
+  HxDpG
+  HxDpG	
+  sys.boot_completed
+  sys.usbbt.devpath
+  usbbt_native
+  %s(), get property: sys.usbbt.devpath failed...
+  main
+  in Booting, found usb bt device...
+  sys.usbbt.inserted
+  %s(), Can not set property: %s
+  %s(), Set path: %s
+  set_dev_node
+  %s(), libusb_init() failed
+  had_btusb_device
+  %s(), No matching USB BT device found ...
+  %s/%03d/%03d
+  /dev/bus/usb
+  LIBUSB_DEBUG
+  LibUsb
+  Linux usbfs
+  /sys/bus/usb/devices
+  /proc/bus/usb
+  2.6.
+  %s/%s/descriptors
+  %s/%s/busnum
+  %s/%s/devnum
+  bConfigurationValue
+  %s/%s/%s
+  bbwbb
+  %s/%03d
+  descriptors
+  void _Unwind_Resume(_Unwind_Exception *)
+  external/libunwind_llvm/src/Unwind-EHABI.cpp
+  _Unwind_Resume() can't return
+  _Unwind_VRS_Result _Unwind_VRS_Set(_Unwind_Context *, _Unwind_VRS_RegClass, uint32_t, _Unwind_VRS_DataRepresentation, void *)
+  unsupported register class
+  _Unwind_VRS_Result _Unwind_VRS_Pop(_Unwind_Context *, _Unwind_VRS_RegClass, uint32_t, _Unwind_VRS_DataRepresentation)
+  _Unwind_Reason_Code unwind_phase2(unw_context_t *, _Unwind_Exception *, bool)
+  during phase1 personality function said it would stop here, but now in phase2 it did not stop here
+  _Unwind_VRS_Result _Unwind_VRS_Get_Internal(_Unwind_Context *, _Unwind_VRS_RegClass, uint32_t, _Unwind_VRS_DataRepresentation, void *)
+  external/libunwind_llvm/src/UnwindCursor.hpp
+  uint32_t libunwind::Registers_arm::getRegister(int)
+  external/libunwind_llvm/src/Registers.hpp
+  unsupported arm register
+  void libunwind::Registers_arm::setRegister(int, uint32_t)
+  unw_fpreg_t libunwind::Registers_arm::getFloatRegister(int)
+  Unknown ARM float register
+  void libunwind::Registers_arm::setFloatRegister(int, unw_fpreg_t)
+  unknown personality routine
+  index inlined table detected but pr function requires extra words
+  unknown register
+  GCC: (GNU) 4.9 20150123 (prerelease)
+  Android clang version 3.8.256229  (based on LLVM 3.8.256229)
+  gold 1.11
+  aeabi
+  ARM v7
+  usbbt_native
+  .shstrtab
+  .interp
+  .note.android.ident
+  .note.gnu.build-id
+  .dynsym
+  .dynstr
+  .gnu.hash
+  .gnu.version
+  .gnu.version_r
+  .rel.dyn
+  .rel.plt
+  .text
+  .ARM.exidx
+  .rodata
+  .ARM.extab
+  .preinit_array
+  .init_array
+  .fini_array
+  .data.rel.ro
+  .dynamic
+  .got
+  .data
+  .bss
+  .comment
+  .note.gnu.gold-version
+  .ARM.attributes
+  .gnu_debuglink
+

@@ -1,0 +1,49 @@
+total 328
+drwxr-xr-x 41 root root 4096 1969-12-31 19:06 .
+drwxr-xr-x 18 root root 4096 1969-12-31 19:08 ..
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 AllApp
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 BLEAutoPair
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 BasicDreams
+drwxr-xr-x  3 root root 4096 2020-11-05 02:47 Bluetooth
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 BluetoothMidiService
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 BookmarkProvider
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 Browser2
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 CaptivePortalLogin
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 CertInstaller
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 Chrome
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 CtsShimPrebuilt
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 DownloadProviderUi
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 DragonAging
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 DragonBox
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 DragonSN
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 EasterEgg
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 ExtShared
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 FactoryStability
+drwxr-xr-x  3 root root 4096 2020-11-05 02:48 Gallery2
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 HTMLViewer
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 KeyChain
+drwxr-xr-x  3 root root 4096 2020-11-05 02:48 LatinIME
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 LiveWallpapersPicker
+drwxr-xr-x  2 root root 4096 2020-12-04 22:05 MboxLauncher
+drwxr-xr-x  3 root root 4096 2020-11-05 02:47 MiracastReceiver
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 Music
+drwxr-xr-x  3 root root 4096 2020-11-05 02:47 OpenWnn
+drwxr-xr-x  3 root root 4096 2020-11-05 02:48 PacProcessor
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 PhotoTable
+drwxr-xr-x  3 root root 4096 2020-11-05 02:47 PicoTts
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 PrintRecommendationService
+drwxr-xr-x  3 root root 4096 2020-11-05 02:47 PrintSpooler
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 SuperSU
+drwxr-xr-x  2 root root 4096 2020-11-05 02:47 TvdVideo
+drwxr-xr-x  2 root root 4096 2020-11-05 02:48 UserDictionaryProvider
+drwxr-xr-x  2 root root 4096 2020-11-05 02:48 WAPPushManager
+drwxr-xr-x  2 root root 4096 2020-11-05 02:48 WallpaperBackup
+drwxr-xr-x  2 root root 4096 2020-11-05 02:48 WebScreensaver
+drwxr-xr-x  2 root root 4096 2020-11-05 02:48 webview
+=== PREINSTALL ===
+total 16
+drwxr-xr-x  2 root root 4096 1969-12-31 19:06 .
+drwxr-xr-x 18 root root 4096 1969-12-31 19:08 ..
+=== QW / ATT ===
+ls: /system/bin/qw: No such file or directory
+ls: /system/bin/att_policy: No such file or directory

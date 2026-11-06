@@ -1,0 +1,26 @@
+# Executáveis brutos de malware (APKs e binários ELF) ignorados por segurança
+preinstall/
+system_app/
+binaries/
+sbin/
+__pycache__/
+*.pyc
+
+# Arquivos intermediários, rascunhos, zips e scripts auxiliares não incluídos no repositório final
+RELATORIO_ETAPA4_AUDITORIA_PROFUNDA.md
+RELATORIO_PROVA_RESILIENCIA_FACTORY_RESET.md
+PROPOSTA_SANITIZACAO_EDUCACIONAL_ETAPA4.md
+GUIA_PESQUISA_EDUBOX_OS.md
+relatório-sanitização.pdf
+Relatório-pós-sanitização.pdf
+dex_inspector.py
+installed_packages.txt
+other_apks_decompiled.txt
+etc_ppp/
+init_rc/
+system_bin/
+smali_evidencias/
+grupos-auditorias/*.zip
+grupos-auditorias/**/*.pptx
+grupos-auditorias/**/APRESENTACAO_GRUPO1.pdf
+grupos-auditorias/Vinicius e João Marcello/evidencias/
